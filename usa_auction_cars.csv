@@ -1,0 +1,2001 @@
+Make,Model,Year,Mileage,Location,Auction Date
+Chevrolet,Tahoe,2023,11248,Houston,2025-02-08
+Tesla,Model X,2018,82989,Houston,2024-12-28
+Mercedes-Benz,GLE,2012,86735,Houston,2025-02-22
+Jeep,Compass,2004,160140,Miami,2025-02-01
+Nissan,Sentra,2016,129318,San Francisco,2024-12-22
+BMW,Z4,2016,118885,San Francisco,2024-12-16
+Jeep,Wrangler,2001,155082,New York,2025-01-15
+Tesla,Model X,2013,199323,Houston,2024-12-14
+Mercedes-Benz,GLC,2008,58794,Los Angeles,2024-12-06
+Ford,Fusion,2006,14567,Seattle,2025-02-03
+Hyundai,Santa Fe,2022,194739,Phoenix,2025-01-14
+Nissan,Titan,2010,5939,Seattle,2025-02-10
+Ford,Explorer,2018,156572,Phoenix,2025-01-01
+Hyundai,Sonata,2007,82927,Atlanta,2025-01-09
+Nissan,Sentra,2012,52517,Atlanta,2025-01-22
+Nissan,Titan,2005,152137,Seattle,2024-12-06
+Toyota,Highlander,2009,65797,Dallas,2025-02-27
+Honda,Accord,2009,41756,Houston,2025-02-19
+Mercedes-Benz,GLE,2008,21290,Dallas,2025-01-15
+Ford,Mustang,2022,104853,Los Angeles,2024-12-06
+BMW,5 Series,2015,90132,Los Angeles,2025-01-28
+Honda,Fit,2022,80888,Dallas,2025-01-29
+Mercedes-Benz,GLC,2019,82902,Phoenix,2024-12-22
+Honda,Civic,2019,131793,Houston,2025-01-06
+Nissan,Sentra,2013,30431,Atlanta,2025-01-29
+Mercedes-Benz,C-Class,2010,54051,New York,2024-12-07
+Toyota,Corolla,2010,77067,Dallas,2025-02-20
+Nissan,Sentra,2021,144489,Phoenix,2025-02-15
+Hyundai,Kona,2019,48680,Miami,2025-01-26
+Mercedes-Benz,E-Class,2021,157230,Los Angeles,2025-01-19
+Jeep,Renegade,2008,191170,Los Angeles,2025-01-02
+Nissan,Altima,2013,35562,New York,2025-02-23
+Mercedes-Benz,GLE,2008,150460,Chicago,2025-01-06
+Chevrolet,Tahoe,2015,36953,Houston,2025-02-08
+BMW,X3,2006,169523,Chicago,2024-12-19
+Chevrolet,Equinox,2014,173721,Seattle,2025-01-27
+Honda,Fit,2007,75701,Houston,2024-12-31
+Ford,Explorer,2003,115047,Dallas,2025-02-09
+Tesla,Model 3,2022,39208,Atlanta,2025-01-13
+BMW,3 Series,2005,195261,Miami,2025-02-19
+Jeep,Cherokee,2011,153803,Phoenix,2024-12-18
+BMW,X3,2008,98200,Houston,2025-02-25
+Toyota,Highlander,2019,174761,Chicago,2024-12-06
+Hyundai,Sonata,2009,11275,Dallas,2025-01-26
+Honda,Accord,2017,35592,Chicago,2024-12-16
+Honda,Civic,2003,77275,Chicago,2025-02-22
+Tesla,Model X,2010,11507,New York,2025-02-20
+Toyota,Corolla,2022,5355,Atlanta,2024-12-08
+Hyundai,Elantra,2000,54427,Miami,2025-01-21
+Ford,Explorer,2010,175318,New York,2025-03-04
+Jeep,Wrangler,2005,46893,San Francisco,2024-12-30
+Chevrolet,Malibu,2007,141960,Los Angeles,2025-01-15
+BMW,3 Series,2015,124675,Houston,2024-12-09
+Ford,Explorer,2019,30275,Phoenix,2024-12-10
+Toyota,RAV4,2005,80261,Seattle,2025-02-22
+Mercedes-Benz,GLC,2016,134369,Los Angeles,2024-12-08
+Mercedes-Benz,S-Class,2017,175914,New York,2025-01-11
+Nissan,Altima,2007,181824,Phoenix,2025-01-07
+Mercedes-Benz,GLC,2004,188352,Miami,2025-01-14
+Honda,Fit,2020,167701,Seattle,2025-02-04
+Hyundai,Santa Fe,2012,65918,Dallas,2025-01-09
+Honda,CR-V,2002,57868,Seattle,2025-01-17
+Jeep,Compass,2018,191183,Los Angeles,2025-01-31
+Chevrolet,Camaro,2000,101597,Los Angeles,2025-03-03
+Chevrolet,Silverado,2003,108871,Phoenix,2025-01-14
+Chevrolet,Camaro,2019,10103,New York,2025-03-01
+Jeep,Wrangler,2015,83192,Seattle,2024-12-27
+Tesla,Model X,2004,133390,New York,2025-02-17
+Toyota,RAV4,2003,35125,Phoenix,2024-12-25
+Tesla,Model Y,2017,193989,Chicago,2024-12-29
+Mercedes-Benz,S-Class,2022,169427,Houston,2025-02-07
+Ford,Explorer,2011,167017,Atlanta,2025-01-01
+BMW,3 Series,2004,19603,New York,2025-01-25
+Hyundai,Sonata,2012,187965,Seattle,2024-12-15
+Mercedes-Benz,E-Class,2010,22575,New York,2025-01-12
+Tesla,Model Y,2006,44126,Seattle,2025-01-27
+Hyundai,Elantra,2010,150871,Atlanta,2025-01-07
+Hyundai,Elantra,2013,95333,Dallas,2024-12-15
+Chevrolet,Silverado,2004,61356,Chicago,2024-12-16
+Nissan,Rogue,2023,158788,San Francisco,2025-02-02
+Nissan,Sentra,2000,107297,New York,2024-12-09
+Nissan,Pathfinder,2021,159588,Miami,2025-02-08
+Toyota,Camry,2020,118912,Dallas,2025-02-19
+BMW,5 Series,2003,100982,San Francisco,2025-01-05
+Ford,Explorer,2015,10012,Dallas,2024-12-18
+Tesla,Model Y,2019,146237,San Francisco,2025-01-27
+Ford,Mustang,2009,27230,San Francisco,2025-01-13
+Ford,F-150,2022,176880,Chicago,2024-12-24
+Nissan,Pathfinder,2002,54896,New York,2024-12-12
+Hyundai,Kona,2018,140298,San Francisco,2024-12-14
+Chevrolet,Malibu,2000,145864,Chicago,2025-02-21
+BMW,Z4,2016,161025,Houston,2025-01-05
+Ford,Fusion,2014,79603,Atlanta,2025-01-03
+BMW,3 Series,2012,15448,Houston,2024-12-08
+BMW,5 Series,2018,116178,Miami,2025-01-14
+Honda,Pilot,2022,199013,Phoenix,2025-02-08
+Chevrolet,Equinox,2006,179656,Dallas,2025-02-18
+BMW,X5,2019,108445,Los Angeles,2025-01-24
+Jeep,Grand Cherokee,2023,68987,New York,2024-12-31
+Nissan,Rogue,2005,109938,Los Angeles,2024-12-30
+Jeep,Renegade,2004,23095,Dallas,2025-02-11
+Nissan,Titan,2011,187890,San Francisco,2024-12-11
+Honda,Civic,2009,164865,New York,2025-01-07
+Honda,CR-V,2015,92326,Los Angeles,2025-01-11
+Mercedes-Benz,S-Class,2010,72858,Seattle,2025-01-16
+Nissan,Pathfinder,2001,164480,Atlanta,2025-02-07
+Toyota,Camry,2003,44214,New York,2025-01-03
+Hyundai,Sonata,2017,178908,Seattle,2025-03-03
+Mercedes-Benz,C-Class,2020,133514,Miami,2024-12-20
+Jeep,Compass,2000,27813,Atlanta,2024-12-28
+Tesla,Model S,2022,80459,Atlanta,2025-02-25
+Mercedes-Benz,E-Class,2017,131873,San Francisco,2025-02-12
+Honda,CR-V,2022,88746,Los Angeles,2024-12-09
+Toyota,Corolla,2012,163992,San Francisco,2025-02-07
+Ford,Escape,2004,55776,Dallas,2025-01-20
+BMW,Z4,2014,84452,Atlanta,2024-12-18
+BMW,5 Series,2008,59251,Chicago,2025-02-10
+Hyundai,Elantra,2001,153175,Atlanta,2025-01-29
+Ford,Mustang,2000,127802,New York,2024-12-13
+Chevrolet,Camaro,2014,33742,Phoenix,2025-01-20
+BMW,X3,2007,45132,Miami,2025-01-07
+Hyundai,Sonata,2023,60903,Dallas,2025-02-13
+Mercedes-Benz,C-Class,2005,87124,Phoenix,2024-12-19
+Mercedes-Benz,C-Class,2023,42123,Los Angeles,2024-12-21
+Ford,Escape,2012,130785,San Francisco,2025-02-17
+Nissan,Titan,2020,152454,San Francisco,2025-02-27
+Toyota,Tacoma,2012,154641,Houston,2025-02-26
+Jeep,Renegade,2003,149711,Dallas,2025-02-13
+Ford,Fusion,2016,149325,Phoenix,2025-01-14
+Honda,CR-V,2012,37282,Seattle,2025-02-04
+Chevrolet,Equinox,2006,179376,Dallas,2024-12-15
+Tesla,Model 3,2013,32203,Houston,2025-01-24
+Nissan,Titan,2017,47853,Chicago,2025-02-03
+Ford,Explorer,2016,162803,Houston,2025-01-09
+Hyundai,Elantra,2022,185944,New York,2025-02-11
+Nissan,Titan,2011,19666,Atlanta,2025-02-20
+Mercedes-Benz,GLE,2008,131796,Los Angeles,2024-12-15
+Jeep,Renegade,2015,94262,Seattle,2025-01-19
+Nissan,Rogue,2015,193613,Phoenix,2024-12-23
+Nissan,Sentra,2002,28864,Phoenix,2025-01-09
+Toyota,Camry,2003,146736,Chicago,2025-02-05
+Honda,Civic,2002,126018,Los Angeles,2024-12-21
+Toyota,Tacoma,2011,52304,Los Angeles,2024-12-10
+Mercedes-Benz,S-Class,2022,180744,Miami,2024-12-15
+Chevrolet,Silverado,2002,98384,Houston,2024-12-20
+Chevrolet,Silverado,2006,198543,Miami,2025-02-28
+Honda,Pilot,2000,53574,Dallas,2025-01-21
+Honda,Civic,2006,196637,Houston,2024-12-31
+Jeep,Grand Cherokee,2016,70715,Houston,2025-02-16
+Jeep,Grand Cherokee,2005,94240,Dallas,2025-03-02
+Mercedes-Benz,E-Class,2000,196266,San Francisco,2025-01-22
+Tesla,Model S,2019,115120,Los Angeles,2025-01-09
+Honda,Accord,2002,10435,Los Angeles,2025-01-13
+Jeep,Compass,2000,43948,Miami,2024-12-12
+Ford,Escape,2023,10923,Chicago,2025-01-01
+Ford,Escape,2003,175086,Miami,2024-12-19
+Tesla,Model 3,2004,109990,Atlanta,2025-01-01
+Hyundai,Santa Fe,2006,108430,Phoenix,2025-02-06
+Chevrolet,Malibu,2014,104678,Los Angeles,2025-02-05
+Honda,Pilot,2019,158615,Houston,2025-02-19
+Nissan,Altima,2011,33447,Seattle,2024-12-14
+Ford,Escape,2013,67751,Chicago,2024-12-09
+Hyundai,Sonata,2010,98626,San Francisco,2025-01-12
+Nissan,Altima,2001,74802,Seattle,2024-12-17
+Mercedes-Benz,C-Class,2007,60215,Atlanta,2024-12-29
+Mercedes-Benz,GLE,2004,189435,Miami,2025-01-20
+Mercedes-Benz,GLC,2014,102447,Seattle,2024-12-06
+Hyundai,Kona,2001,158378,Seattle,2025-02-27
+Jeep,Compass,2008,60247,Dallas,2025-01-16
+Toyota,Highlander,2009,115063,Seattle,2024-12-29
+Mercedes-Benz,GLC,2019,186644,Miami,2025-01-14
+Hyundai,Kona,2003,138056,Miami,2024-12-11
+Hyundai,Kona,2005,57665,Phoenix,2025-02-08
+Tesla,Model X,2007,149901,Miami,2025-01-22
+Chevrolet,Silverado,2003,155640,Los Angeles,2024-12-09
+Nissan,Titan,2014,157753,Phoenix,2024-12-27
+Nissan,Titan,2000,33534,Los Angeles,2025-01-27
+Jeep,Cherokee,2012,186491,San Francisco,2024-12-21
+Nissan,Rogue,2004,28869,San Francisco,2025-02-27
+Mercedes-Benz,S-Class,2023,153059,Los Angeles,2025-01-31
+Tesla,Model S,2006,181916,Atlanta,2025-02-06
+Toyota,Corolla,2006,107045,San Francisco,2025-02-01
+Honda,Civic,2000,24778,Los Angeles,2025-02-15
+Mercedes-Benz,E-Class,2011,165208,New York,2025-01-28
+Nissan,Pathfinder,2013,90258,Phoenix,2025-01-04
+Jeep,Grand Cherokee,2000,86774,Los Angeles,2025-02-16
+Ford,Fusion,2023,22340,Houston,2025-01-14
+Toyota,Highlander,2017,122495,Seattle,2025-01-01
+Honda,Fit,2005,66855,Atlanta,2025-02-16
+Mercedes-Benz,E-Class,2005,108309,Phoenix,2025-01-27
+Honda,Accord,2004,8051,Miami,2024-12-11
+Nissan,Altima,2013,54486,Miami,2025-02-26
+Tesla,Model 3,2002,159488,Miami,2025-02-13
+Hyundai,Tucson,2001,33459,New York,2024-12-21
+Nissan,Sentra,2016,156541,Phoenix,2025-02-03
+Chevrolet,Camaro,2012,8111,Seattle,2024-12-18
+Ford,Escape,2007,177627,San Francisco,2024-12-13
+Honda,Civic,2007,188340,New York,2025-02-13
+Nissan,Sentra,2013,152144,Chicago,2025-01-19
+Chevrolet,Equinox,2003,180706,Chicago,2025-02-01
+Jeep,Wrangler,2022,145916,Dallas,2025-02-24
+Toyota,RAV4,2012,46792,Miami,2025-01-13
+Hyundai,Sonata,2010,198356,Chicago,2025-02-23
+Hyundai,Sonata,2013,169272,Chicago,2024-12-18
+Mercedes-Benz,S-Class,2004,123792,Dallas,2025-01-10
+Mercedes-Benz,GLE,2023,43663,Los Angeles,2025-02-12
+Chevrolet,Camaro,2011,75271,Phoenix,2025-02-06
+Jeep,Renegade,2022,107634,Phoenix,2024-12-05
+BMW,Z4,2012,191438,Phoenix,2025-03-02
+Nissan,Sentra,2007,160021,Atlanta,2025-02-20
+Nissan,Altima,2017,81192,Dallas,2025-02-01
+BMW,3 Series,2022,153688,Phoenix,2024-12-09
+Jeep,Compass,2006,149205,Seattle,2025-01-02
+Jeep,Cherokee,2005,53268,Atlanta,2025-03-02
+Toyota,Corolla,2014,176707,Atlanta,2025-01-25
+Honda,Pilot,2005,92530,Miami,2024-12-29
+Mercedes-Benz,S-Class,2000,134079,Dallas,2025-01-01
+Hyundai,Elantra,2006,134289,San Francisco,2025-01-03
+BMW,5 Series,2018,128844,Dallas,2025-02-25
+Ford,Mustang,2008,146127,Phoenix,2024-12-13
+Ford,Explorer,2015,62186,Houston,2025-01-08
+Toyota,Highlander,2010,28904,Houston,2025-03-01
+Hyundai,Santa Fe,2008,150350,New York,2024-12-05
+Honda,Pilot,2013,179925,Los Angeles,2025-02-01
+Tesla,Model S,2017,16982,New York,2024-12-31
+Honda,Pilot,2013,49620,Houston,2025-02-08
+Mercedes-Benz,S-Class,2004,24152,Atlanta,2025-02-11
+Nissan,Titan,2023,54141,Dallas,2025-02-01
+Honda,CR-V,2016,97553,San Francisco,2024-12-10
+Honda,Accord,2021,156591,Miami,2024-12-09
+Honda,Accord,2021,108123,San Francisco,2025-02-03
+Ford,Fusion,2009,117907,Chicago,2025-01-28
+BMW,X3,2018,172778,Dallas,2025-01-20
+Hyundai,Elantra,2008,76009,New York,2024-12-30
+BMW,Z4,2002,45624,Houston,2025-01-26
+Chevrolet,Tahoe,2020,98607,Seattle,2025-01-07
+Chevrolet,Silverado,2020,86753,Miami,2024-12-23
+Hyundai,Sonata,2014,195577,Phoenix,2025-02-22
+Jeep,Wrangler,2006,194328,San Francisco,2025-01-02
+Toyota,Corolla,2012,65519,Atlanta,2025-02-25
+Ford,Fusion,2006,150189,Los Angeles,2024-12-14
+Mercedes-Benz,E-Class,2023,67527,San Francisco,2024-12-21
+Chevrolet,Silverado,2018,85871,San Francisco,2025-01-08
+Nissan,Sentra,2002,151501,Seattle,2025-02-04
+Tesla,Model S,2019,30943,Atlanta,2025-02-04
+Tesla,Model Y,2002,99272,New York,2025-02-11
+Tesla,Model X,2009,148108,Dallas,2025-01-29
+Chevrolet,Tahoe,2005,104638,Seattle,2025-01-24
+Toyota,Highlander,2020,198507,Los Angeles,2024-12-15
+Jeep,Renegade,2014,90500,Chicago,2025-01-01
+Tesla,Model S,2008,180355,San Francisco,2024-12-20
+Honda,Pilot,2012,197211,Los Angeles,2025-02-01
+Jeep,Renegade,2016,182673,Dallas,2025-01-16
+Honda,CR-V,2021,124010,Dallas,2024-12-12
+Mercedes-Benz,S-Class,2011,175679,Houston,2025-02-01
+Mercedes-Benz,GLC,2012,21906,San Francisco,2025-01-07
+Jeep,Renegade,2011,110180,Atlanta,2025-02-08
+Toyota,Highlander,2008,142852,Atlanta,2025-02-08
+Mercedes-Benz,S-Class,2019,108567,Seattle,2024-12-12
+BMW,5 Series,2016,28630,Phoenix,2024-12-19
+Honda,Pilot,2016,186894,Phoenix,2024-12-29
+Nissan,Rogue,2017,169349,Seattle,2025-01-29
+Jeep,Cherokee,2001,56083,Miami,2024-12-10
+Honda,Fit,2017,32678,Atlanta,2025-02-09
+Tesla,Model Y,2015,147200,New York,2025-02-11
+Hyundai,Sonata,2008,69880,Los Angeles,2024-12-30
+Hyundai,Elantra,2018,178353,Phoenix,2025-02-25
+Mercedes-Benz,GLE,2002,55037,Seattle,2025-02-22
+BMW,5 Series,2017,31025,Phoenix,2025-01-30
+BMW,5 Series,2023,154555,Houston,2025-01-08
+Toyota,Tacoma,2019,180346,Dallas,2025-02-12
+Honda,Fit,2022,79404,New York,2025-02-01
+BMW,X3,2014,91930,Atlanta,2025-01-02
+Nissan,Titan,2020,153129,Phoenix,2025-01-30
+Toyota,Highlander,2004,71848,San Francisco,2025-03-01
+BMW,Z4,2005,82381,Seattle,2025-01-01
+Mercedes-Benz,C-Class,2004,155028,Los Angeles,2025-02-11
+Nissan,Altima,2000,188627,Los Angeles,2025-02-07
+Jeep,Grand Cherokee,2009,99185,Atlanta,2024-12-24
+Tesla,Model X,2000,195593,Atlanta,2025-03-04
+Nissan,Titan,2023,71929,Phoenix,2024-12-22
+Chevrolet,Camaro,2005,74239,Phoenix,2024-12-10
+Tesla,Model 3,2023,159395,San Francisco,2024-12-13
+Ford,Mustang,2007,7160,Miami,2025-01-28
+Nissan,Rogue,2016,81008,San Francisco,2025-01-01
+Toyota,Highlander,2011,61538,Atlanta,2024-12-11
+Ford,Fusion,2012,47999,San Francisco,2025-02-25
+BMW,3 Series,2020,60331,Houston,2025-01-25
+Chevrolet,Camaro,2023,109560,Chicago,2024-12-22
+Mercedes-Benz,C-Class,2018,190074,Houston,2025-01-24
+Ford,F-150,2008,186169,Seattle,2024-12-27
+Ford,Escape,2009,54245,Atlanta,2024-12-05
+Hyundai,Tucson,2019,82688,New York,2025-02-19
+Nissan,Altima,2007,148191,Los Angeles,2025-01-29
+Nissan,Altima,2011,184772,Houston,2025-01-02
+Jeep,Wrangler,2005,106257,New York,2025-01-04
+Mercedes-Benz,GLC,2016,8617,Chicago,2025-02-25
+Hyundai,Tucson,2002,196125,Chicago,2024-12-13
+Chevrolet,Camaro,2014,12453,Miami,2025-02-19
+Ford,Escape,2015,139563,Los Angeles,2024-12-28
+Nissan,Titan,2004,172378,New York,2024-12-14
+Jeep,Wrangler,2006,30858,Houston,2025-02-19
+Toyota,Camry,2002,73159,San Francisco,2024-12-30
+Ford,Explorer,2008,102551,Houston,2024-12-25
+Jeep,Cherokee,2022,8150,Phoenix,2025-02-01
+Tesla,Model Y,2018,95562,Phoenix,2025-01-09
+Tesla,Model 3,2001,22429,Miami,2025-01-11
+Tesla,Model 3,2016,174648,Phoenix,2024-12-05
+Hyundai,Sonata,2008,124922,San Francisco,2025-02-19
+Tesla,Model 3,2006,63686,Atlanta,2025-02-17
+Jeep,Cherokee,2008,163513,Chicago,2024-12-30
+Toyota,Corolla,2010,160832,New York,2025-02-03
+Toyota,Tacoma,2001,180963,Chicago,2025-02-16
+Hyundai,Sonata,2009,197560,Chicago,2025-02-26
+Jeep,Cherokee,2006,11900,Phoenix,2024-12-21
+Jeep,Grand Cherokee,2022,96490,Los Angeles,2025-01-11
+BMW,3 Series,2017,59613,Seattle,2025-01-15
+Ford,F-150,2008,90014,Dallas,2024-12-09
+Hyundai,Santa Fe,2020,185483,Chicago,2025-02-27
+Honda,Pilot,2014,151297,Miami,2024-12-16
+Toyota,Camry,2009,182738,Dallas,2025-01-02
+Jeep,Renegade,2002,74372,Los Angeles,2025-02-10
+Honda,Civic,2015,73049,Dallas,2025-02-04
+Mercedes-Benz,GLE,2008,158672,Houston,2025-01-20
+Hyundai,Tucson,2018,92720,Dallas,2025-01-23
+Chevrolet,Silverado,2006,112189,Seattle,2025-02-02
+Ford,F-150,2016,188868,San Francisco,2024-12-17
+Ford,Escape,2002,38759,Atlanta,2025-01-21
+Mercedes-Benz,C-Class,2017,18085,Seattle,2025-01-21
+Hyundai,Tucson,2021,29839,Dallas,2025-02-20
+Ford,Fusion,2021,38147,Atlanta,2025-01-14
+Chevrolet,Malibu,2015,126673,San Francisco,2025-02-17
+Chevrolet,Malibu,2019,63764,San Francisco,2025-01-24
+Jeep,Grand Cherokee,2018,13586,Chicago,2024-12-09
+Honda,CR-V,2023,177465,Los Angeles,2024-12-28
+BMW,X5,2002,52593,Seattle,2025-01-30
+Jeep,Grand Cherokee,2022,168719,Los Angeles,2025-02-02
+Chevrolet,Silverado,2013,7363,Houston,2025-01-23
+Honda,Fit,2011,29650,San Francisco,2025-02-24
+Toyota,RAV4,2013,165895,Atlanta,2025-03-04
+Honda,CR-V,2022,39267,Phoenix,2025-01-20
+Chevrolet,Camaro,2017,5786,San Francisco,2025-01-31
+Jeep,Grand Cherokee,2002,27358,New York,2025-01-17
+Nissan,Altima,2022,117425,San Francisco,2025-02-06
+Chevrolet,Camaro,2000,118919,San Francisco,2025-01-22
+BMW,3 Series,2007,134218,Dallas,2024-12-06
+Toyota,Corolla,2006,188943,Atlanta,2025-02-22
+Hyundai,Sonata,2000,129311,Houston,2025-02-14
+Tesla,Model X,2010,59786,Houston,2025-01-20
+Toyota,RAV4,2003,87393,Seattle,2025-02-26
+Chevrolet,Malibu,2008,76572,San Francisco,2024-12-21
+Nissan,Titan,2010,101539,Phoenix,2024-12-25
+Mercedes-Benz,S-Class,2015,67744,Chicago,2025-01-10
+Nissan,Pathfinder,2021,77181,Atlanta,2025-01-08
+Tesla,Model X,2023,180438,New York,2025-02-12
+Hyundai,Santa Fe,2008,19042,Seattle,2025-02-21
+Toyota,Corolla,2020,172461,Seattle,2025-01-21
+Hyundai,Elantra,2009,152523,Houston,2025-01-12
+Honda,Civic,2020,148376,Dallas,2025-01-06
+Honda,Pilot,2005,128257,Phoenix,2025-02-01
+Chevrolet,Tahoe,2001,169389,Phoenix,2025-01-06
+Toyota,Highlander,2000,87024,San Francisco,2025-01-20
+Chevrolet,Malibu,2005,34824,Phoenix,2024-12-16
+Honda,Civic,2017,47624,Los Angeles,2025-02-11
+Hyundai,Elantra,2019,132890,Chicago,2024-12-06
+Nissan,Titan,2005,191902,Atlanta,2025-02-28
+Hyundai,Sonata,2016,143634,Houston,2024-12-15
+Chevrolet,Silverado,2021,42426,Dallas,2024-12-24
+Tesla,Model X,2011,150231,Houston,2025-02-07
+Chevrolet,Equinox,2019,125952,Atlanta,2024-12-12
+Ford,Mustang,2001,92573,Dallas,2025-02-10
+Ford,Fusion,2008,70822,Miami,2024-12-31
+Jeep,Wrangler,2023,105926,Houston,2025-02-28
+Toyota,Camry,2001,25053,San Francisco,2024-12-22
+BMW,X5,2016,18885,New York,2024-12-05
+Chevrolet,Equinox,2006,34863,New York,2025-02-03
+Tesla,Model S,2001,142877,Seattle,2024-12-28
+BMW,5 Series,2011,91740,Los Angeles,2025-02-10
+Ford,Fusion,2015,186710,Atlanta,2025-01-07
+Tesla,Model S,2008,78462,Seattle,2025-02-24
+Jeep,Grand Cherokee,2018,189430,Seattle,2025-02-06
+Chevrolet,Malibu,2021,135798,New York,2025-02-04
+Chevrolet,Equinox,2017,159799,Atlanta,2024-12-20
+Jeep,Grand Cherokee,2015,34440,Chicago,2024-12-28
+BMW,X5,2013,169058,Phoenix,2024-12-19
+Nissan,Titan,2011,91884,Chicago,2025-02-20
+BMW,5 Series,2019,53113,Atlanta,2025-01-03
+Toyota,Camry,2005,119974,Seattle,2025-01-21
+Ford,Escape,2014,163900,Seattle,2024-12-22
+Jeep,Renegade,2008,120029,Dallas,2025-02-16
+Toyota,Camry,2013,24977,Miami,2025-02-21
+Nissan,Altima,2012,44536,Los Angeles,2025-01-01
+Tesla,Model 3,2015,143091,Dallas,2025-02-20
+Tesla,Model S,2007,125634,Miami,2025-01-21
+Nissan,Titan,2004,161334,New York,2025-02-23
+Honda,Fit,2000,15703,Phoenix,2024-12-29
+Chevrolet,Camaro,2010,57690,San Francisco,2025-01-18
+Ford,Escape,2004,112434,Seattle,2025-02-01
+Mercedes-Benz,GLC,2014,43214,Atlanta,2025-02-19
+Tesla,Model 3,2013,165589,Seattle,2025-02-18
+Honda,CR-V,2008,32550,Dallas,2025-02-06
+BMW,3 Series,2011,138757,Los Angeles,2025-02-16
+Toyota,RAV4,2011,71371,Phoenix,2025-01-02
+Mercedes-Benz,E-Class,2011,175235,Miami,2025-01-13
+Honda,Accord,2005,38167,San Francisco,2024-12-21
+Toyota,Camry,2010,10478,Los Angeles,2025-02-16
+Toyota,Highlander,2008,123066,San Francisco,2025-02-10
+Honda,Pilot,2023,45891,Phoenix,2024-12-25
+BMW,3 Series,2005,81053,Houston,2024-12-30
+Ford,Fusion,2020,75729,Houston,2024-12-24
+Hyundai,Sonata,2007,147038,San Francisco,2024-12-23
+Tesla,Model S,2005,156558,Phoenix,2025-02-16
+Tesla,Model Y,2012,31912,Houston,2025-01-02
+Hyundai,Santa Fe,2012,57091,Atlanta,2024-12-22
+Nissan,Pathfinder,2020,186187,Seattle,2025-01-15
+Nissan,Pathfinder,2011,165532,Miami,2025-02-15
+Jeep,Cherokee,2012,153982,Miami,2024-12-19
+Honda,Civic,2012,182866,San Francisco,2025-03-03
+Chevrolet,Silverado,2017,19764,Phoenix,2024-12-23
+Nissan,Pathfinder,2010,5812,Phoenix,2025-01-05
+Nissan,Sentra,2019,47720,Miami,2025-02-25
+Honda,CR-V,2005,35751,Atlanta,2025-01-24
+Hyundai,Tucson,2018,124598,Los Angeles,2025-01-17
+Nissan,Pathfinder,2006,144369,Phoenix,2025-02-06
+Nissan,Sentra,2003,38584,New York,2025-01-19
+Hyundai,Santa Fe,2020,32446,Phoenix,2024-12-23
+Nissan,Pathfinder,2009,166883,Dallas,2025-01-15
+Jeep,Grand Cherokee,2005,60734,San Francisco,2024-12-18
+Honda,Accord,2023,106195,Atlanta,2025-02-05
+Mercedes-Benz,E-Class,2003,161648,Chicago,2024-12-25
+Ford,Escape,2004,198089,Houston,2024-12-29
+Toyota,Camry,2023,101093,San Francisco,2025-01-22
+BMW,X3,2000,159243,Seattle,2024-12-20
+Jeep,Grand Cherokee,2012,136846,Atlanta,2025-02-19
+Honda,Civic,2021,17312,Seattle,2025-01-22
+BMW,5 Series,2009,38886,Miami,2025-02-03
+Tesla,Model X,2020,51993,New York,2024-12-19
+Toyota,RAV4,2012,87101,Dallas,2025-01-29
+Honda,CR-V,2021,140022,Atlanta,2025-02-13
+Tesla,Model X,2013,132175,Los Angeles,2025-01-02
+BMW,3 Series,2009,102796,Seattle,2025-01-21
+Mercedes-Benz,GLC,2010,137715,Seattle,2024-12-16
+Jeep,Wrangler,2021,10991,Phoenix,2025-01-12
+Hyundai,Santa Fe,2021,189967,Atlanta,2024-12-21
+Jeep,Compass,2019,115376,Los Angeles,2024-12-25
+BMW,3 Series,2010,45348,Atlanta,2025-01-22
+Honda,Accord,2021,167936,Miami,2025-02-01
+Honda,Civic,2015,25286,New York,2024-12-26
+Mercedes-Benz,C-Class,2023,141695,Dallas,2025-02-11
+Tesla,Model S,2005,84120,Miami,2025-03-02
+Mercedes-Benz,GLE,2021,11172,Miami,2025-02-09
+BMW,X5,2006,115188,Chicago,2025-02-14
+Chevrolet,Tahoe,2012,190260,Dallas,2025-02-11
+Nissan,Sentra,2016,162339,New York,2025-01-31
+Tesla,Model Y,2015,49246,Houston,2024-12-07
+Nissan,Titan,2010,43096,San Francisco,2025-01-31
+Nissan,Sentra,2015,171449,San Francisco,2025-01-18
+BMW,X3,2009,183616,Seattle,2025-02-24
+Toyota,RAV4,2023,73052,Chicago,2024-12-12
+Toyota,Corolla,2010,14007,Atlanta,2025-02-04
+Ford,Explorer,2014,159582,Dallas,2025-02-06
+Nissan,Titan,2000,182444,Phoenix,2025-01-07
+BMW,Z4,2008,184767,Los Angeles,2025-02-15
+Toyota,Highlander,2009,80663,New York,2025-01-14
+Ford,Explorer,2022,99327,Los Angeles,2025-02-03
+Ford,Explorer,2017,43918,Chicago,2025-01-06
+Toyota,RAV4,2018,177208,Los Angeles,2025-02-04
+Mercedes-Benz,E-Class,2023,176096,Seattle,2025-02-10
+Mercedes-Benz,GLE,2010,25988,New York,2024-12-25
+Tesla,Model 3,2023,171665,San Francisco,2025-02-02
+Honda,Civic,2002,13402,Seattle,2025-02-22
+Tesla,Model Y,2019,153629,San Francisco,2025-01-24
+BMW,Z4,2007,184123,Dallas,2025-02-17
+Ford,Explorer,2003,124122,Miami,2025-01-27
+Ford,Fusion,2019,157351,New York,2025-03-03
+Jeep,Cherokee,2007,21397,Miami,2024-12-28
+Toyota,Camry,2011,179620,Houston,2024-12-31
+Honda,CR-V,2003,164157,San Francisco,2025-01-19
+Toyota,Tacoma,2022,195450,Atlanta,2024-12-24
+BMW,3 Series,2015,28557,Los Angeles,2025-02-27
+Hyundai,Kona,2010,10282,Phoenix,2025-01-04
+Jeep,Cherokee,2020,86179,Atlanta,2025-02-19
+Tesla,Model 3,2003,120829,Houston,2024-12-05
+Ford,Fusion,2014,138867,Phoenix,2025-01-02
+Toyota,RAV4,2007,115661,San Francisco,2025-02-27
+Ford,Fusion,2010,57614,New York,2025-01-02
+Toyota,Tacoma,2014,79502,Houston,2025-01-18
+Hyundai,Elantra,2016,162907,Los Angeles,2025-02-01
+Chevrolet,Camaro,2001,171350,Atlanta,2025-02-06
+Toyota,RAV4,2011,191954,Chicago,2024-12-06
+Tesla,Model X,2002,124682,Los Angeles,2025-01-02
+Honda,Pilot,2022,14617,Houston,2025-02-11
+Nissan,Titan,2020,191488,New York,2025-02-10
+Honda,Fit,2017,96668,Miami,2025-01-22
+BMW,X5,2013,46643,Los Angeles,2025-02-17
+Chevrolet,Equinox,2003,151623,Phoenix,2025-01-16
+Jeep,Grand Cherokee,2010,159350,Chicago,2024-12-17
+Jeep,Cherokee,2008,146371,San Francisco,2025-01-24
+Nissan,Titan,2021,24069,Seattle,2025-01-08
+Nissan,Titan,2011,6314,Dallas,2025-01-18
+Tesla,Model X,2016,6090,Miami,2024-12-20
+Mercedes-Benz,S-Class,2020,23493,Los Angeles,2024-12-20
+Jeep,Wrangler,2003,157461,San Francisco,2024-12-06
+Honda,Pilot,2023,180459,Miami,2025-01-17
+Hyundai,Tucson,2002,181793,Dallas,2025-01-02
+Tesla,Model X,2009,122824,Miami,2025-01-31
+Ford,Escape,2010,47835,Miami,2025-02-16
+BMW,5 Series,2012,176079,New York,2025-01-23
+Ford,Fusion,2008,198647,Chicago,2025-02-25
+Chevrolet,Camaro,2002,9788,New York,2025-02-20
+Ford,Escape,2007,142346,Dallas,2025-02-09
+Nissan,Altima,2003,56160,New York,2024-12-14
+Tesla,Model S,2012,19369,Chicago,2025-01-08
+Honda,Pilot,2018,44740,New York,2024-12-13
+BMW,X5,2011,105853,Seattle,2025-03-02
+Ford,Explorer,2019,178865,Dallas,2024-12-08
+Chevrolet,Silverado,2005,129898,New York,2025-01-18
+Ford,F-150,2006,176348,Seattle,2024-12-16
+BMW,3 Series,2005,31472,Los Angeles,2025-02-27
+Tesla,Model S,2016,159958,Dallas,2024-12-29
+Tesla,Model 3,2003,131571,Atlanta,2025-01-09
+Honda,Accord,2005,152809,Atlanta,2025-02-24
+Tesla,Model Y,2000,33151,San Francisco,2024-12-16
+Jeep,Compass,2003,117577,Houston,2024-12-18
+Nissan,Sentra,2001,72041,Los Angeles,2025-03-01
+BMW,3 Series,2002,155706,Dallas,2024-12-30
+Chevrolet,Tahoe,2020,12589,Chicago,2025-02-15
+Toyota,Tacoma,2015,157975,San Francisco,2025-01-29
+Hyundai,Elantra,2009,132984,Houston,2024-12-30
+Hyundai,Sonata,2021,82387,Phoenix,2025-01-09
+Nissan,Sentra,2007,52263,New York,2024-12-12
+Hyundai,Kona,2006,44589,Chicago,2024-12-31
+Ford,Fusion,2009,164633,Seattle,2025-02-25
+Chevrolet,Equinox,2016,177756,Atlanta,2025-01-16
+Jeep,Wrangler,2022,134350,Chicago,2025-01-20
+Mercedes-Benz,C-Class,2017,153486,Dallas,2025-02-08
+Mercedes-Benz,E-Class,2019,21719,Phoenix,2025-02-20
+BMW,X3,2017,174547,Phoenix,2025-01-09
+Mercedes-Benz,E-Class,2016,130274,Seattle,2025-01-03
+Chevrolet,Equinox,2020,25502,Los Angeles,2025-02-07
+Ford,F-150,2021,180551,Los Angeles,2024-12-31
+Hyundai,Sonata,2012,58904,Chicago,2025-01-15
+Nissan,Titan,2018,58256,Chicago,2025-01-11
+BMW,5 Series,2015,121252,Miami,2024-12-20
+Mercedes-Benz,GLC,2003,197105,Houston,2024-12-25
+Honda,Civic,2002,152782,San Francisco,2024-12-28
+Nissan,Altima,2004,123948,Los Angeles,2025-01-11
+Ford,F-150,2005,109237,Houston,2025-02-01
+Hyundai,Kona,2018,160844,Phoenix,2025-01-09
+BMW,3 Series,2011,157373,Dallas,2025-02-01
+BMW,Z4,2023,122201,Miami,2024-12-15
+Honda,Accord,2001,131245,Atlanta,2025-02-22
+Honda,Civic,2019,40106,Los Angeles,2024-12-22
+Nissan,Altima,2003,190429,Los Angeles,2025-01-05
+Toyota,RAV4,2010,15610,Los Angeles,2024-12-14
+Mercedes-Benz,S-Class,2015,60149,Seattle,2025-01-16
+Honda,Accord,2003,95242,Atlanta,2025-01-08
+Hyundai,Sonata,2019,198618,Los Angeles,2025-02-23
+Nissan,Rogue,2020,50335,Chicago,2025-03-03
+Tesla,Model Y,2019,168214,Seattle,2025-02-13
+Nissan,Titan,2005,111236,San Francisco,2025-01-17
+Chevrolet,Tahoe,2022,164487,Phoenix,2024-12-27
+Nissan,Altima,2000,179555,Chicago,2025-02-14
+Jeep,Grand Cherokee,2005,111851,Phoenix,2025-01-30
+Tesla,Model S,2017,186845,Phoenix,2025-01-17
+Hyundai,Kona,2000,10918,Phoenix,2025-01-29
+Tesla,Model S,2008,141165,Dallas,2024-12-15
+Chevrolet,Tahoe,2003,66409,Phoenix,2024-12-24
+Toyota,Highlander,2009,78347,Chicago,2024-12-17
+Hyundai,Sonata,2000,130365,Atlanta,2024-12-26
+Hyundai,Kona,2002,11772,Seattle,2025-02-28
+Toyota,Camry,2002,174387,Miami,2024-12-30
+Chevrolet,Silverado,2019,127511,San Francisco,2025-02-27
+Tesla,Model 3,2006,15559,Houston,2025-01-09
+Honda,CR-V,2013,83801,San Francisco,2025-03-01
+Mercedes-Benz,E-Class,2009,165945,Atlanta,2025-02-15
+Chevrolet,Silverado,2007,160311,Phoenix,2025-01-12
+BMW,5 Series,2006,68070,Atlanta,2025-02-05
+Mercedes-Benz,C-Class,2001,16706,Atlanta,2025-01-27
+Mercedes-Benz,E-Class,2004,8164,Houston,2024-12-22
+Jeep,Renegade,2004,164960,Los Angeles,2025-02-03
+Honda,Civic,2003,88593,Chicago,2025-01-25
+Jeep,Wrangler,2000,11833,New York,2025-02-21
+Ford,F-150,2023,102850,Phoenix,2025-02-11
+Mercedes-Benz,GLC,2017,122935,New York,2024-12-11
+Hyundai,Sonata,2004,16334,Seattle,2025-02-21
+Tesla,Model Y,2007,176900,Miami,2025-03-01
+Hyundai,Tucson,2005,114363,Dallas,2025-01-28
+Mercedes-Benz,GLE,2019,157004,San Francisco,2025-01-30
+Jeep,Wrangler,2009,135428,San Francisco,2025-01-28
+Nissan,Sentra,2020,104193,Phoenix,2025-02-02
+BMW,X5,2012,62618,San Francisco,2025-01-28
+Toyota,Corolla,2019,73645,Seattle,2025-01-25
+Chevrolet,Camaro,2018,116166,Phoenix,2025-01-13
+Honda,CR-V,2020,50541,Los Angeles,2024-12-08
+Jeep,Cherokee,2023,39264,New York,2024-12-24
+Jeep,Cherokee,2007,118451,Atlanta,2024-12-05
+Nissan,Altima,2001,181482,San Francisco,2025-02-23
+Jeep,Compass,2018,69504,Miami,2024-12-26
+Hyundai,Tucson,2015,156717,Miami,2025-02-16
+Chevrolet,Equinox,2021,173303,Chicago,2025-01-24
+Hyundai,Santa Fe,2009,179870,Miami,2025-02-23
+Mercedes-Benz,GLC,2014,20625,Atlanta,2025-01-01
+Chevrolet,Tahoe,2001,131951,San Francisco,2025-01-02
+Ford,F-150,2018,166538,Phoenix,2025-02-11
+Toyota,Corolla,2005,149548,Dallas,2025-01-24
+Chevrolet,Silverado,2004,14399,San Francisco,2025-01-30
+BMW,X5,2009,11752,Phoenix,2025-01-30
+Nissan,Rogue,2016,181840,Seattle,2025-01-22
+Hyundai,Kona,2012,79738,Dallas,2024-12-28
+Ford,F-150,2012,164449,Dallas,2024-12-27
+Chevrolet,Tahoe,2015,144447,Chicago,2025-01-23
+Hyundai,Sonata,2009,156729,Seattle,2025-01-10
+Hyundai,Tucson,2006,99840,Atlanta,2024-12-27
+Toyota,RAV4,2002,42055,New York,2025-01-02
+Nissan,Sentra,2015,113434,Los Angeles,2025-01-01
+Toyota,Corolla,2005,184815,New York,2025-01-04
+BMW,5 Series,2015,166920,New York,2025-02-12
+Nissan,Titan,2018,152545,New York,2025-03-04
+Tesla,Model S,2021,117282,Dallas,2024-12-10
+Nissan,Pathfinder,2020,28378,Houston,2024-12-13
+Hyundai,Santa Fe,2015,67385,Chicago,2024-12-09
+Honda,Pilot,2000,179069,Chicago,2025-02-21
+Honda,Pilot,2022,94041,Dallas,2025-02-20
+Jeep,Compass,2005,42024,Atlanta,2024-12-06
+Ford,Escape,2001,113398,Chicago,2024-12-29
+Mercedes-Benz,C-Class,2015,80443,Atlanta,2025-01-19
+Chevrolet,Silverado,2007,63090,Houston,2024-12-13
+Tesla,Model 3,2005,106912,Los Angeles,2024-12-26
+Toyota,Corolla,2001,5263,Seattle,2025-01-28
+Jeep,Grand Cherokee,2016,53705,Atlanta,2025-01-15
+Toyota,Highlander,2016,18505,Chicago,2025-01-12
+Toyota,RAV4,2017,81031,Chicago,2024-12-29
+Nissan,Altima,2000,176688,Los Angeles,2025-01-03
+Mercedes-Benz,E-Class,2022,110827,Atlanta,2024-12-31
+Ford,F-150,2019,152979,Atlanta,2025-02-17
+Jeep,Grand Cherokee,2007,18231,Miami,2025-03-02
+Nissan,Rogue,2020,124080,Chicago,2025-01-30
+Mercedes-Benz,E-Class,2000,27214,Phoenix,2024-12-14
+Honda,Fit,2015,147167,Phoenix,2025-02-09
+Hyundai,Sonata,2022,58563,Seattle,2025-01-23
+Jeep,Wrangler,2006,46908,Seattle,2025-01-17
+BMW,5 Series,2003,65316,Atlanta,2025-02-07
+Tesla,Model Y,2022,106285,Phoenix,2025-02-28
+Hyundai,Tucson,2004,35949,Miami,2024-12-22
+Chevrolet,Equinox,2018,70927,Atlanta,2025-02-10
+Hyundai,Santa Fe,2020,9850,San Francisco,2024-12-17
+BMW,X3,2008,120390,Seattle,2025-01-23
+Chevrolet,Malibu,2022,85282,San Francisco,2025-01-04
+Mercedes-Benz,C-Class,2015,176857,Seattle,2025-02-14
+Toyota,Camry,2022,70303,San Francisco,2024-12-22
+Mercedes-Benz,GLC,2003,81645,Seattle,2025-01-17
+Hyundai,Sonata,2017,45242,Chicago,2024-12-26
+Mercedes-Benz,E-Class,2013,125255,Houston,2025-02-20
+Tesla,Model 3,2002,79524,Seattle,2025-02-18
+Toyota,RAV4,2012,159478,Chicago,2024-12-10
+Toyota,Camry,2007,189682,San Francisco,2024-12-06
+Mercedes-Benz,GLC,2011,39647,Los Angeles,2025-01-20
+Hyundai,Sonata,2023,95489,Houston,2024-12-20
+Jeep,Cherokee,2023,52229,Dallas,2025-01-23
+Honda,CR-V,2019,136321,Los Angeles,2025-02-11
+Mercedes-Benz,E-Class,2004,139673,Atlanta,2024-12-12
+Jeep,Cherokee,2019,60205,Atlanta,2024-12-28
+Tesla,Model S,2008,61496,Atlanta,2024-12-31
+Nissan,Titan,2013,90566,Atlanta,2025-02-26
+Jeep,Grand Cherokee,2004,117780,Phoenix,2025-01-29
+Chevrolet,Equinox,2008,74866,Seattle,2024-12-16
+Toyota,Camry,2018,131569,Phoenix,2024-12-25
+Jeep,Cherokee,2000,117523,Miami,2024-12-12
+Chevrolet,Tahoe,2015,31844,Atlanta,2025-03-04
+Ford,Mustang,2008,59308,San Francisco,2025-02-25
+Hyundai,Sonata,2023,133354,New York,2025-02-24
+Hyundai,Sonata,2010,172099,Miami,2025-01-16
+Nissan,Altima,2004,192764,San Francisco,2025-02-24
+Jeep,Renegade,2013,140702,Chicago,2025-01-28
+Hyundai,Elantra,2010,56287,Miami,2025-01-01
+Hyundai,Tucson,2019,10571,Los Angeles,2024-12-09
+Jeep,Renegade,2007,55784,Atlanta,2025-02-04
+Hyundai,Santa Fe,2020,187561,Phoenix,2025-02-05
+Chevrolet,Camaro,2017,64671,Phoenix,2025-02-03
+Honda,Pilot,2010,171379,Phoenix,2025-02-23
+Jeep,Wrangler,2020,165027,New York,2025-02-06
+Nissan,Titan,2022,102116,Miami,2025-01-16
+Hyundai,Sonata,2007,181458,New York,2024-12-09
+Nissan,Rogue,2022,11052,Houston,2025-01-25
+Ford,Mustang,2021,126902,Houston,2025-02-02
+Mercedes-Benz,GLE,2001,193593,Seattle,2025-01-27
+Ford,Mustang,2013,162754,Houston,2025-01-16
+Mercedes-Benz,GLE,2005,147776,Seattle,2025-02-19
+Ford,Mustang,2004,185970,Phoenix,2025-02-04
+Jeep,Compass,2007,170986,New York,2025-01-10
+Honda,CR-V,2003,75966,Phoenix,2025-02-05
+Mercedes-Benz,C-Class,2006,154816,Chicago,2025-02-09
+Mercedes-Benz,GLE,2020,188980,Miami,2025-01-18
+Jeep,Grand Cherokee,2009,32223,San Francisco,2024-12-17
+Tesla,Model S,2007,164799,Dallas,2024-12-10
+Chevrolet,Camaro,2002,91297,Chicago,2025-03-04
+Chevrolet,Malibu,2008,106665,San Francisco,2025-01-10
+Honda,CR-V,2019,36973,New York,2025-02-18
+Honda,Pilot,2019,79651,Chicago,2024-12-31
+Toyota,Tacoma,2020,94530,Los Angeles,2025-02-23
+BMW,X5,2012,47757,Miami,2024-12-09
+Hyundai,Tucson,2023,6924,Houston,2025-01-12
+Toyota,RAV4,2013,104584,Chicago,2025-02-10
+Hyundai,Kona,2005,141237,Los Angeles,2025-02-05
+Honda,CR-V,2018,109065,Los Angeles,2025-02-23
+Toyota,Tacoma,2006,99268,Miami,2025-02-24
+BMW,3 Series,2014,111486,Houston,2025-02-07
+Jeep,Renegade,2018,111841,Los Angeles,2025-02-03
+Ford,F-150,2007,130267,Seattle,2024-12-22
+Honda,Civic,2000,9576,Miami,2025-01-01
+Mercedes-Benz,GLC,2011,157617,Houston,2024-12-10
+Hyundai,Elantra,2016,82448,San Francisco,2024-12-20
+Tesla,Model X,2020,72701,Houston,2025-01-08
+Chevrolet,Equinox,2013,171535,San Francisco,2025-02-25
+Hyundai,Tucson,2014,39190,Phoenix,2024-12-18
+Mercedes-Benz,C-Class,2006,71955,New York,2025-02-18
+Toyota,Camry,2020,35266,Chicago,2025-01-26
+Nissan,Titan,2007,39201,Phoenix,2024-12-07
+BMW,5 Series,2013,193987,Seattle,2024-12-23
+Ford,F-150,2013,145128,Los Angeles,2025-02-19
+Ford,Mustang,2003,87589,Chicago,2025-02-10
+Honda,Civic,2005,141836,Los Angeles,2024-12-18
+Jeep,Wrangler,2004,177869,Dallas,2024-12-08
+Ford,Escape,2021,135846,Houston,2025-01-01
+Jeep,Grand Cherokee,2021,22738,Phoenix,2025-01-04
+Tesla,Model 3,2005,130720,Seattle,2025-01-25
+BMW,X5,2019,85190,Houston,2024-12-20
+Toyota,RAV4,2001,39794,Houston,2025-02-13
+Toyota,Highlander,2009,52498,Seattle,2025-02-25
+Jeep,Compass,2001,68298,Seattle,2024-12-12
+Hyundai,Tucson,2000,21377,Miami,2025-02-14
+Toyota,Highlander,2022,108021,Los Angeles,2024-12-22
+Ford,Fusion,2002,70850,Miami,2024-12-06
+Hyundai,Sonata,2015,147825,Los Angeles,2025-03-02
+Chevrolet,Tahoe,2000,141034,Miami,2025-02-08
+Chevrolet,Silverado,2018,45105,Los Angeles,2025-02-22
+Jeep,Grand Cherokee,2010,20699,Chicago,2025-01-24
+Ford,F-150,2000,64137,Seattle,2025-02-21
+Chevrolet,Equinox,2014,28209,San Francisco,2025-02-11
+Jeep,Wrangler,2000,20567,New York,2024-12-29
+Ford,Explorer,2010,149721,Houston,2025-01-05
+Ford,Fusion,2002,89582,Los Angeles,2025-01-04
+Jeep,Cherokee,2011,113327,Los Angeles,2024-12-13
+Tesla,Model 3,2015,75101,Seattle,2025-01-10
+BMW,5 Series,2000,82149,Houston,2025-02-02
+Toyota,RAV4,2021,70218,New York,2025-01-12
+Mercedes-Benz,C-Class,2005,160084,Los Angeles,2025-02-22
+Mercedes-Benz,C-Class,2004,197883,Atlanta,2025-02-13
+Hyundai,Santa Fe,2010,79179,Dallas,2025-01-18
+Mercedes-Benz,C-Class,2015,164136,Miami,2025-01-19
+Mercedes-Benz,GLE,2022,108414,Houston,2025-01-21
+Jeep,Cherokee,2017,169538,Los Angeles,2025-02-22
+Honda,Accord,2017,150013,Phoenix,2025-02-08
+Toyota,Highlander,2013,191056,Los Angeles,2024-12-07
+BMW,3 Series,2001,149431,Atlanta,2025-01-21
+Chevrolet,Tahoe,2015,13240,New York,2025-02-27
+Tesla,Model 3,2014,142968,Seattle,2024-12-28
+Jeep,Renegade,2016,150721,New York,2025-02-19
+Tesla,Model 3,2007,77232,Miami,2025-02-01
+Honda,Pilot,2011,34949,San Francisco,2025-02-06
+Honda,Pilot,2008,58845,Dallas,2025-02-20
+Jeep,Renegade,2023,61239,Dallas,2025-02-11
+Nissan,Pathfinder,2006,46232,Seattle,2025-01-10
+Hyundai,Sonata,2012,117249,Houston,2025-02-03
+Tesla,Model X,2016,153154,Miami,2025-02-24
+Hyundai,Sonata,2021,94325,San Francisco,2025-02-01
+Mercedes-Benz,S-Class,2012,128344,Seattle,2025-02-11
+Mercedes-Benz,GLE,2016,132592,New York,2025-01-26
+Chevrolet,Equinox,2015,163966,Los Angeles,2025-01-12
+Mercedes-Benz,C-Class,2009,189079,Seattle,2025-02-09
+Hyundai,Santa Fe,2015,128710,Chicago,2025-02-24
+Chevrolet,Silverado,2001,183119,Houston,2025-01-25
+Tesla,Model X,2017,65402,Houston,2024-12-13
+Hyundai,Kona,2008,165589,New York,2025-03-02
+Tesla,Model X,2013,147222,Miami,2024-12-31
+BMW,5 Series,2004,37428,Miami,2025-02-28
+Honda,CR-V,2001,128699,Dallas,2025-02-15
+Ford,Fusion,2012,169160,New York,2025-02-24
+Hyundai,Elantra,2014,157196,Chicago,2025-01-15
+Mercedes-Benz,E-Class,2001,59666,Houston,2025-01-17
+Jeep,Compass,2000,187001,Seattle,2024-12-09
+Tesla,Model 3,2020,124309,Miami,2024-12-27
+BMW,X5,2019,191784,Seattle,2025-02-16
+Nissan,Altima,2015,183776,Houston,2025-01-26
+Tesla,Model 3,2018,28758,Los Angeles,2025-02-01
+Toyota,RAV4,2002,190580,San Francisco,2025-02-27
+Mercedes-Benz,E-Class,2002,92983,Dallas,2025-01-08
+Ford,Explorer,2004,14413,Houston,2025-02-08
+Honda,Fit,2009,132906,Atlanta,2024-12-05
+Hyundai,Sonata,2018,121745,Houston,2025-02-08
+Ford,Escape,2009,169361,Dallas,2025-02-02
+Nissan,Rogue,2016,101455,Dallas,2025-01-16
+Tesla,Model X,2020,129814,Los Angeles,2024-12-20
+Jeep,Grand Cherokee,2015,7059,San Francisco,2025-02-13
+Toyota,Camry,2023,82828,Atlanta,2025-01-28
+Jeep,Compass,2020,182340,Atlanta,2024-12-17
+Honda,Pilot,2009,97915,New York,2024-12-14
+Honda,Accord,2015,10739,Dallas,2025-02-12
+Tesla,Model Y,2021,77399,New York,2024-12-23
+Chevrolet,Equinox,2021,42055,Chicago,2025-01-03
+Mercedes-Benz,GLE,2002,140467,San Francisco,2024-12-14
+Honda,Fit,2010,9432,Dallas,2024-12-06
+Jeep,Renegade,2004,95029,New York,2025-02-06
+Hyundai,Santa Fe,2009,57050,New York,2025-01-27
+Toyota,RAV4,2009,159050,San Francisco,2025-01-16
+Tesla,Model Y,2018,14825,Atlanta,2024-12-24
+Mercedes-Benz,E-Class,2022,78446,Chicago,2025-01-26
+Jeep,Wrangler,2011,109251,Chicago,2025-02-25
+BMW,X3,2005,47399,Dallas,2025-01-03
+Nissan,Rogue,2001,70390,Atlanta,2025-03-02
+Honda,Pilot,2020,50481,New York,2025-01-31
+BMW,X3,2020,53294,Chicago,2025-01-12
+Chevrolet,Malibu,2022,138053,Los Angeles,2025-01-16
+Honda,Civic,2020,198028,Miami,2025-01-10
+Honda,Pilot,2007,190160,San Francisco,2024-12-14
+Hyundai,Santa Fe,2018,105493,Atlanta,2025-02-22
+Chevrolet,Malibu,2000,49881,Atlanta,2025-02-20
+Hyundai,Elantra,2003,155869,New York,2025-02-14
+Toyota,Highlander,2013,37781,New York,2025-03-03
+Toyota,Tacoma,2012,98900,Seattle,2025-03-01
+Hyundai,Tucson,2015,190771,Phoenix,2025-02-09
+Tesla,Model 3,2017,74567,Seattle,2024-12-15
+Mercedes-Benz,S-Class,2017,115330,Chicago,2024-12-20
+Jeep,Grand Cherokee,2019,173657,Phoenix,2025-03-03
+Jeep,Grand Cherokee,2008,51060,San Francisco,2024-12-30
+BMW,3 Series,2023,169937,Dallas,2025-02-09
+Honda,Fit,2016,94021,Dallas,2025-02-04
+Chevrolet,Tahoe,2002,115798,Houston,2025-01-25
+BMW,3 Series,2013,190114,Atlanta,2025-02-09
+Nissan,Rogue,2022,128743,New York,2025-01-11
+Hyundai,Elantra,2002,16749,Los Angeles,2025-02-02
+Mercedes-Benz,S-Class,2015,133176,New York,2025-02-23
+Nissan,Sentra,2002,150368,Phoenix,2025-01-23
+Toyota,Corolla,2003,193596,Houston,2025-02-27
+Tesla,Model Y,2018,162957,Houston,2025-01-21
+Hyundai,Elantra,2003,140033,Phoenix,2025-01-18
+Hyundai,Elantra,2017,197568,Chicago,2024-12-17
+Chevrolet,Equinox,2023,160163,Houston,2025-02-03
+Ford,Explorer,2013,48623,Phoenix,2025-02-04
+BMW,X5,2013,24919,Houston,2024-12-15
+Nissan,Sentra,2014,114676,New York,2024-12-20
+Nissan,Sentra,2023,116619,Dallas,2025-02-15
+Nissan,Rogue,2019,89708,Houston,2025-02-10
+Chevrolet,Silverado,2002,47581,Atlanta,2025-01-20
+Nissan,Pathfinder,2010,140639,Phoenix,2024-12-08
+Honda,CR-V,2018,174499,Seattle,2024-12-21
+Tesla,Model Y,2007,107488,Seattle,2025-01-10
+Tesla,Model 3,2020,41463,Houston,2024-12-18
+Hyundai,Kona,2012,156579,Los Angeles,2025-02-13
+Hyundai,Elantra,2016,63713,Miami,2024-12-17
+Nissan,Sentra,2012,171270,Chicago,2025-01-12
+Honda,CR-V,2009,129598,San Francisco,2025-03-02
+Honda,Civic,2003,94867,Seattle,2024-12-06
+Mercedes-Benz,E-Class,2020,184422,Houston,2025-02-13
+Honda,CR-V,2003,19862,Phoenix,2025-02-09
+BMW,5 Series,2000,82900,Los Angeles,2025-01-15
+Mercedes-Benz,C-Class,2018,68730,Chicago,2024-12-28
+Mercedes-Benz,GLC,2001,111736,Los Angeles,2025-03-02
+Toyota,Corolla,2006,47007,Seattle,2025-02-03
+Toyota,Tacoma,2012,60048,San Francisco,2025-03-03
+Chevrolet,Camaro,2016,85276,Seattle,2025-02-17
+Ford,Fusion,2019,121576,Dallas,2025-02-08
+Chevrolet,Tahoe,2004,146745,Dallas,2025-03-02
+Tesla,Model 3,2000,126481,Phoenix,2025-01-18
+Mercedes-Benz,E-Class,2014,154302,Seattle,2025-01-24
+Hyundai,Sonata,2003,55514,Seattle,2025-01-03
+Hyundai,Elantra,2002,70354,Houston,2025-01-30
+Honda,Accord,2009,99243,Los Angeles,2024-12-05
+Hyundai,Sonata,2015,13133,Miami,2024-12-15
+Chevrolet,Silverado,2000,150651,Chicago,2025-01-28
+Mercedes-Benz,GLC,2012,176210,Seattle,2025-02-26
+Mercedes-Benz,C-Class,2017,19264,New York,2025-01-18
+Toyota,Corolla,2006,68440,Los Angeles,2024-12-05
+Chevrolet,Camaro,2012,91463,Los Angeles,2025-01-12
+Nissan,Sentra,2023,61568,Phoenix,2024-12-05
+Honda,Accord,2009,44704,Chicago,2025-01-26
+Toyota,RAV4,2020,140104,Chicago,2024-12-19
+Chevrolet,Malibu,2002,86257,Phoenix,2025-01-12
+Hyundai,Tucson,2005,11498,Dallas,2025-02-07
+Chevrolet,Tahoe,2023,80097,New York,2025-02-06
+Tesla,Model X,2005,96641,San Francisco,2024-12-20
+BMW,5 Series,2004,43990,Atlanta,2025-01-23
+Hyundai,Elantra,2000,125196,San Francisco,2025-01-25
+Ford,Fusion,2002,71830,Los Angeles,2025-02-10
+Mercedes-Benz,E-Class,2005,147054,New York,2025-01-08
+Toyota,Highlander,2011,27887,Atlanta,2024-12-21
+Honda,Pilot,2008,135523,Dallas,2025-01-31
+Tesla,Model X,2020,20130,Houston,2025-02-21
+BMW,X5,2020,152928,Houston,2025-03-01
+Chevrolet,Silverado,2020,136020,Dallas,2025-02-01
+Jeep,Renegade,2008,75184,San Francisco,2024-12-26
+Jeep,Compass,2014,54566,Houston,2025-02-01
+Jeep,Wrangler,2023,157060,Chicago,2024-12-21
+Ford,Explorer,2016,167663,Phoenix,2025-02-06
+Jeep,Cherokee,2000,77076,Miami,2025-01-22
+Nissan,Titan,2011,146913,Chicago,2024-12-31
+Mercedes-Benz,GLE,2015,177841,Miami,2025-01-24
+BMW,5 Series,2009,33812,Dallas,2024-12-24
+Mercedes-Benz,S-Class,2010,51937,Miami,2025-01-19
+BMW,3 Series,2007,129232,Seattle,2025-01-19
+Ford,Explorer,2020,86301,Miami,2025-01-29
+Chevrolet,Malibu,2020,115331,New York,2024-12-09
+Chevrolet,Silverado,2000,86724,Miami,2024-12-19
+Hyundai,Kona,2020,130558,Chicago,2024-12-18
+BMW,Z4,2005,57208,New York,2025-02-22
+Toyota,Corolla,2023,107768,New York,2025-02-20
+Jeep,Cherokee,2009,176817,Phoenix,2024-12-28
+Honda,Accord,2000,196828,Dallas,2025-01-16
+Nissan,Altima,2000,55576,Atlanta,2025-02-27
+Hyundai,Santa Fe,2008,90874,Chicago,2025-02-17
+BMW,X5,2010,84530,New York,2025-02-19
+Jeep,Renegade,2023,41327,Phoenix,2024-12-15
+Nissan,Rogue,2023,145131,Chicago,2025-02-03
+Ford,Mustang,2011,170629,Chicago,2025-02-14
+Nissan,Pathfinder,2020,149451,Los Angeles,2025-02-21
+Nissan,Titan,2002,49681,Atlanta,2025-01-05
+Nissan,Pathfinder,2004,126096,Los Angeles,2025-01-16
+Jeep,Wrangler,2008,105256,Seattle,2025-03-03
+Hyundai,Santa Fe,2014,98560,Seattle,2025-01-25
+Nissan,Pathfinder,2004,8062,Seattle,2025-02-12
+Ford,Mustang,2020,7448,Miami,2024-12-17
+Ford,Fusion,2007,88346,Houston,2024-12-29
+Jeep,Wrangler,2019,152369,Phoenix,2024-12-07
+Hyundai,Santa Fe,2023,13787,Atlanta,2025-02-16
+BMW,Z4,2018,41910,Atlanta,2025-01-12
+Chevrolet,Tahoe,2001,166307,Dallas,2025-01-16
+Hyundai,Elantra,2017,156574,Phoenix,2025-01-03
+Tesla,Model S,2013,171803,Houston,2025-01-29
+Toyota,Camry,2000,107812,Los Angeles,2025-02-24
+Jeep,Renegade,2003,173373,Dallas,2024-12-31
+Mercedes-Benz,E-Class,2002,135449,Phoenix,2025-01-11
+Mercedes-Benz,E-Class,2005,66751,Houston,2025-03-03
+Mercedes-Benz,GLE,2016,167314,San Francisco,2024-12-20
+Tesla,Model S,2012,199029,Houston,2024-12-22
+Ford,Escape,2019,167492,Los Angeles,2025-01-13
+Tesla,Model 3,2021,147895,Atlanta,2025-03-03
+Ford,Escape,2009,161184,San Francisco,2024-12-13
+Jeep,Renegade,2018,13873,Houston,2025-03-02
+Chevrolet,Camaro,2012,80965,Los Angeles,2024-12-24
+Tesla,Model X,2001,151293,Chicago,2024-12-14
+Honda,Fit,2021,107410,Houston,2025-03-04
+Mercedes-Benz,S-Class,2015,164106,New York,2024-12-10
+Toyota,RAV4,2017,109395,Dallas,2025-01-01
+Mercedes-Benz,C-Class,2015,6197,Atlanta,2024-12-30
+Toyota,Camry,2003,67530,Miami,2025-02-24
+Tesla,Model Y,2000,51583,Miami,2025-01-09
+Ford,Fusion,2019,66686,Miami,2025-02-15
+Toyota,RAV4,2018,138238,Los Angeles,2024-12-23
+Mercedes-Benz,GLE,2006,177893,New York,2024-12-30
+Jeep,Cherokee,2023,175481,Chicago,2025-01-08
+Nissan,Titan,2010,57087,Houston,2025-01-17
+Mercedes-Benz,S-Class,2001,179856,Atlanta,2024-12-31
+Nissan,Sentra,2001,138057,Seattle,2025-02-17
+Tesla,Model 3,2009,67457,Atlanta,2024-12-05
+Nissan,Pathfinder,2019,53913,Phoenix,2024-12-17
+Hyundai,Tucson,2007,91530,Chicago,2025-01-11
+Toyota,Highlander,2001,115607,Houston,2025-01-11
+Chevrolet,Camaro,2004,101642,Phoenix,2024-12-10
+Jeep,Grand Cherokee,2020,8825,San Francisco,2025-01-18
+Toyota,Highlander,2002,61278,Phoenix,2025-01-17
+Jeep,Compass,2010,62431,Los Angeles,2025-03-03
+Honda,Fit,2011,186040,Atlanta,2024-12-15
+Hyundai,Tucson,2001,132903,Dallas,2025-01-27
+Chevrolet,Equinox,2007,189489,San Francisco,2025-01-25
+Mercedes-Benz,C-Class,2010,8359,New York,2024-12-11
+Tesla,Model Y,2000,39696,Seattle,2024-12-23
+Mercedes-Benz,GLC,2021,156145,Houston,2025-01-19
+Mercedes-Benz,GLC,2014,89454,Los Angeles,2024-12-18
+Hyundai,Sonata,2021,43585,Seattle,2025-01-31
+Tesla,Model 3,2008,129235,San Francisco,2025-01-25
+Jeep,Cherokee,2018,11164,Los Angeles,2025-01-04
+Toyota,Tacoma,2003,95016,Chicago,2025-02-02
+Chevrolet,Malibu,2011,166762,Dallas,2024-12-15
+Tesla,Model X,2010,66017,New York,2025-01-16
+BMW,X3,2019,118296,Houston,2025-02-01
+Mercedes-Benz,GLC,2020,40834,Seattle,2025-02-22
+Mercedes-Benz,GLC,2016,5843,San Francisco,2025-01-12
+Ford,Mustang,2003,57222,Atlanta,2025-01-27
+Mercedes-Benz,C-Class,2008,158065,Chicago,2024-12-29
+BMW,3 Series,2019,52356,Dallas,2025-01-26
+BMW,Z4,2001,108667,Miami,2025-02-22
+Honda,Fit,2005,178627,Miami,2025-02-27
+Hyundai,Kona,2011,17048,Dallas,2025-01-17
+BMW,5 Series,2023,99311,Chicago,2025-01-11
+Ford,Escape,2014,65169,Miami,2024-12-10
+Toyota,RAV4,2003,184356,Chicago,2024-12-18
+BMW,Z4,2002,119507,Atlanta,2025-01-01
+BMW,X3,2023,164967,Houston,2024-12-27
+Tesla,Model Y,2009,85218,Dallas,2025-02-19
+Tesla,Model X,2005,100957,Chicago,2025-02-24
+BMW,3 Series,2012,77000,Los Angeles,2025-02-13
+Jeep,Cherokee,2008,62856,Phoenix,2025-02-10
+Hyundai,Elantra,2011,189970,Miami,2024-12-22
+Jeep,Wrangler,2003,10675,New York,2025-02-18
+Chevrolet,Camaro,2015,53431,Chicago,2025-01-03
+Honda,Accord,2017,188617,Houston,2025-01-14
+Tesla,Model X,2004,96505,Miami,2025-03-04
+Tesla,Model 3,2023,86237,San Francisco,2025-01-20
+Toyota,Tacoma,2013,140229,Seattle,2025-02-10
+Nissan,Altima,2018,5259,Miami,2025-03-01
+Hyundai,Kona,2004,72913,Houston,2024-12-23
+Toyota,Highlander,2023,22312,Dallas,2024-12-07
+Jeep,Renegade,2009,115161,Phoenix,2024-12-07
+Hyundai,Elantra,2009,11625,Los Angeles,2025-02-11
+Jeep,Compass,2023,32668,San Francisco,2025-02-20
+Chevrolet,Equinox,2017,94908,Phoenix,2025-02-26
+Mercedes-Benz,GLE,2020,94723,Seattle,2025-01-08
+Mercedes-Benz,C-Class,2006,190990,Miami,2025-03-03
+Chevrolet,Camaro,2000,132428,Seattle,2025-02-03
+Toyota,Corolla,2004,68644,Chicago,2025-02-24
+Toyota,Camry,2000,17025,Los Angeles,2025-02-20
+Mercedes-Benz,GLE,2009,138530,Atlanta,2025-01-28
+Hyundai,Sonata,2017,130367,New York,2025-03-04
+Mercedes-Benz,GLC,2017,107597,Seattle,2025-02-16
+Chevrolet,Silverado,2015,5292,Atlanta,2024-12-16
+Hyundai,Kona,2013,75063,San Francisco,2025-02-15
+Nissan,Titan,2015,62825,Los Angeles,2025-03-04
+Honda,Accord,2013,189085,Dallas,2025-02-27
+Chevrolet,Camaro,2000,104713,Houston,2025-02-10
+Hyundai,Sonata,2002,77609,Los Angeles,2025-03-03
+Nissan,Altima,2002,14821,San Francisco,2025-02-21
+Hyundai,Tucson,2011,144339,New York,2025-02-21
+Mercedes-Benz,E-Class,2000,124287,San Francisco,2025-01-23
+BMW,3 Series,2000,61137,San Francisco,2025-01-27
+Ford,Explorer,2016,150636,Houston,2024-12-24
+Mercedes-Benz,GLE,2019,53574,Dallas,2025-01-11
+Jeep,Wrangler,2021,136444,Phoenix,2024-12-19
+Chevrolet,Camaro,2014,135024,New York,2024-12-13
+Toyota,RAV4,2001,118078,Los Angeles,2024-12-07
+Ford,Fusion,2001,168327,New York,2025-03-02
+Jeep,Wrangler,2019,77317,San Francisco,2025-01-18
+Hyundai,Sonata,2018,199793,San Francisco,2024-12-22
+Tesla,Model Y,2023,39618,New York,2025-03-02
+Chevrolet,Tahoe,2013,29244,Houston,2024-12-21
+Mercedes-Benz,S-Class,2022,21559,New York,2024-12-23
+Honda,Accord,2004,33440,Dallas,2025-01-05
+Nissan,Titan,2007,97186,Dallas,2025-02-09
+BMW,X3,2010,28914,New York,2025-02-16
+Honda,Pilot,2014,169845,Houston,2024-12-05
+BMW,X5,2017,52655,Miami,2025-02-15
+Jeep,Renegade,2010,139864,Phoenix,2024-12-18
+BMW,5 Series,2014,135864,Seattle,2025-01-27
+Jeep,Renegade,2007,137079,Houston,2025-02-18
+Hyundai,Kona,2012,119056,Seattle,2025-01-11
+Toyota,Tacoma,2006,160203,Dallas,2025-01-06
+Mercedes-Benz,E-Class,2003,40288,Seattle,2025-02-09
+Jeep,Grand Cherokee,2020,116937,Seattle,2025-02-19
+Tesla,Model X,2019,156591,Seattle,2025-01-27
+Ford,Mustang,2022,107498,Miami,2025-02-21
+Mercedes-Benz,GLC,2015,170125,Los Angeles,2025-02-23
+Toyota,RAV4,2001,167625,Miami,2025-02-22
+Hyundai,Kona,2022,132648,Seattle,2025-01-30
+Toyota,Corolla,2018,148535,Dallas,2025-01-31
+Nissan,Titan,2007,147412,Miami,2025-02-07
+Ford,Mustang,2000,189288,Los Angeles,2024-12-25
+Tesla,Model Y,2017,13138,Los Angeles,2025-01-26
+Chevrolet,Tahoe,2022,137814,New York,2024-12-14
+Mercedes-Benz,E-Class,2019,182542,Seattle,2025-02-14
+Honda,Fit,2018,187583,Chicago,2025-02-13
+Honda,Pilot,2018,39016,Dallas,2024-12-11
+BMW,X5,2014,62111,Houston,2025-01-09
+Jeep,Wrangler,2023,32050,Phoenix,2025-01-24
+Toyota,Corolla,2000,9922,Miami,2024-12-25
+Toyota,RAV4,2007,91137,Atlanta,2025-02-03
+Mercedes-Benz,GLC,2000,18693,Dallas,2025-02-13
+Chevrolet,Tahoe,2003,102616,Phoenix,2025-01-26
+Hyundai,Kona,2008,13136,Atlanta,2025-02-27
+Chevrolet,Malibu,2013,138510,Seattle,2025-01-20
+Toyota,RAV4,2009,186815,Houston,2024-12-29
+Mercedes-Benz,S-Class,2015,193506,Dallas,2025-02-10
+Mercedes-Benz,GLE,2003,181055,Seattle,2025-01-13
+Nissan,Altima,2011,121504,Phoenix,2025-03-04
+Tesla,Model X,2010,109879,Atlanta,2025-01-23
+Toyota,Tacoma,2023,101782,Dallas,2025-01-10
+Honda,Fit,2002,91288,Miami,2025-01-19
+BMW,Z4,2008,139108,Phoenix,2025-01-24
+Chevrolet,Malibu,2000,175417,Atlanta,2025-01-11
+Hyundai,Kona,2018,40849,Miami,2025-02-06
+Jeep,Renegade,2016,17807,New York,2025-01-15
+Tesla,Model Y,2014,47706,Phoenix,2025-01-20
+Hyundai,Santa Fe,2008,73061,Houston,2025-02-12
+Honda,Accord,2023,118575,Seattle,2024-12-23
+Toyota,Camry,2020,34047,Dallas,2025-02-25
+Nissan,Altima,2012,153137,Miami,2025-02-11
+Toyota,Corolla,2001,103939,Miami,2025-01-06
+Hyundai,Sonata,2020,108122,Phoenix,2025-02-20
+Mercedes-Benz,E-Class,2019,100004,Chicago,2025-01-10
+Tesla,Model S,2018,70637,Phoenix,2025-01-02
+Toyota,Camry,2022,8158,New York,2024-12-11
+Mercedes-Benz,C-Class,2023,179606,Dallas,2025-01-17
+Chevrolet,Equinox,2011,47179,New York,2025-02-12
+Hyundai,Santa Fe,2017,119826,New York,2025-01-26
+BMW,X5,2023,119169,Phoenix,2025-01-18
+BMW,5 Series,2014,5562,San Francisco,2025-03-04
+Ford,Mustang,2011,169541,New York,2024-12-22
+BMW,X3,2018,74686,Atlanta,2025-02-24
+Ford,Fusion,2022,36270,Chicago,2024-12-31
+Tesla,Model X,2014,110669,Los Angeles,2025-02-26
+Honda,Civic,2010,12192,Los Angeles,2025-02-02
+Honda,CR-V,2000,197973,Los Angeles,2025-01-28
+Hyundai,Tucson,2004,174677,Houston,2025-02-11
+Tesla,Model Y,2020,112425,Houston,2025-02-22
+Mercedes-Benz,E-Class,2003,159253,San Francisco,2024-12-30
+Jeep,Renegade,2010,83682,Miami,2024-12-17
+Mercedes-Benz,E-Class,2021,97766,Seattle,2025-02-02
+Nissan,Titan,2009,7808,San Francisco,2025-02-04
+BMW,X5,2006,75918,San Francisco,2025-02-01
+Tesla,Model X,2004,132189,Los Angeles,2025-01-08
+Tesla,Model Y,2007,137530,Los Angeles,2025-01-14
+Toyota,Corolla,2016,175657,Chicago,2025-03-03
+Toyota,Corolla,2012,187441,Seattle,2024-12-20
+Tesla,Model Y,2015,28715,Phoenix,2025-01-17
+Honda,CR-V,2014,85782,Houston,2025-02-08
+Mercedes-Benz,GLE,2004,40899,Atlanta,2025-01-24
+Nissan,Sentra,2002,101135,Dallas,2025-02-08
+Tesla,Model X,2010,9839,Chicago,2025-01-20
+Hyundai,Santa Fe,2022,34640,Houston,2025-02-19
+Toyota,RAV4,2009,89178,Miami,2025-02-27
+Ford,F-150,2000,160987,Dallas,2025-02-10
+Jeep,Wrangler,2021,30171,Dallas,2025-02-01
+BMW,X5,2004,102405,Houston,2025-01-10
+Hyundai,Tucson,2022,105090,Houston,2025-02-19
+Honda,Pilot,2012,158618,Seattle,2024-12-13
+Mercedes-Benz,C-Class,2020,89818,Atlanta,2025-02-06
+Tesla,Model S,2019,103266,Phoenix,2025-01-17
+Mercedes-Benz,E-Class,2008,194096,Houston,2024-12-14
+Nissan,Altima,2007,166424,Phoenix,2024-12-11
+Mercedes-Benz,GLC,2018,55998,Phoenix,2025-01-07
+Nissan,Rogue,2000,115176,Chicago,2025-01-03
+Nissan,Pathfinder,2009,38370,Phoenix,2024-12-16
+Honda,Pilot,2022,32791,Seattle,2025-02-12
+Jeep,Compass,2002,42748,New York,2025-02-02
+Toyota,Corolla,2017,140058,Phoenix,2025-01-25
+BMW,5 Series,2001,136571,Phoenix,2025-02-13
+Hyundai,Kona,2015,135474,Phoenix,2024-12-22
+Jeep,Compass,2020,28334,San Francisco,2024-12-13
+Mercedes-Benz,GLE,2018,116316,Phoenix,2025-01-01
+Ford,Mustang,2015,137921,San Francisco,2024-12-18
+Honda,Accord,2012,90481,Houston,2025-01-20
+Ford,Escape,2005,82788,Houston,2025-02-03
+BMW,X5,2019,31454,New York,2025-02-24
+Tesla,Model X,2002,130253,Atlanta,2025-02-28
+Hyundai,Elantra,2020,39308,Atlanta,2024-12-15
+Hyundai,Elantra,2020,156526,Dallas,2025-01-09
+Mercedes-Benz,E-Class,2000,57051,Dallas,2025-01-30
+Hyundai,Sonata,2000,174862,Atlanta,2025-02-10
+Jeep,Cherokee,2003,116220,Phoenix,2024-12-18
+Ford,F-150,2006,101031,Dallas,2024-12-23
+Chevrolet,Malibu,2008,58820,Houston,2024-12-12
+Chevrolet,Silverado,2015,57487,New York,2025-01-09
+Nissan,Altima,2009,179893,Dallas,2025-02-04
+Mercedes-Benz,S-Class,2003,25623,Miami,2025-01-03
+Chevrolet,Silverado,2005,50863,Houston,2025-02-25
+Mercedes-Benz,C-Class,2018,190526,Dallas,2025-01-29
+Mercedes-Benz,GLE,2015,7156,Dallas,2025-01-02
+Chevrolet,Malibu,2012,170718,Miami,2025-01-13
+Jeep,Grand Cherokee,2004,48775,Dallas,2025-01-18
+Ford,Explorer,2022,36731,Miami,2024-12-22
+BMW,3 Series,2021,105741,New York,2024-12-10
+BMW,3 Series,2021,139632,San Francisco,2025-02-02
+Ford,F-150,2012,129944,Chicago,2025-01-30
+Chevrolet,Silverado,2006,184097,Houston,2024-12-21
+BMW,5 Series,2003,179941,San Francisco,2024-12-30
+Honda,Pilot,2011,66324,Chicago,2025-01-14
+Mercedes-Benz,GLC,2009,180646,San Francisco,2024-12-09
+Hyundai,Kona,2022,182494,Atlanta,2025-02-05
+Toyota,Tacoma,2002,85470,Phoenix,2025-02-28
+Jeep,Cherokee,2000,101131,New York,2024-12-11
+Honda,CR-V,2017,30972,Dallas,2024-12-15
+Mercedes-Benz,C-Class,2015,61058,Houston,2024-12-23
+Tesla,Model S,2012,23334,Chicago,2024-12-24
+Toyota,RAV4,2016,151620,Houston,2024-12-12
+Nissan,Sentra,2014,81502,Seattle,2025-02-11
+BMW,3 Series,2008,166089,Dallas,2024-12-06
+BMW,5 Series,2008,69574,Dallas,2024-12-12
+BMW,5 Series,2002,93274,Phoenix,2024-12-10
+Mercedes-Benz,GLC,2020,156046,New York,2025-01-25
+Jeep,Compass,2018,180739,Houston,2025-02-16
+Mercedes-Benz,S-Class,2003,60815,Houston,2025-01-23
+BMW,3 Series,2015,187016,San Francisco,2025-01-16
+BMW,X5,2021,18627,Atlanta,2025-01-10
+Mercedes-Benz,GLE,2006,107390,New York,2024-12-11
+Honda,CR-V,2020,181814,Dallas,2025-01-11
+Chevrolet,Camaro,2008,49049,New York,2025-01-15
+Jeep,Grand Cherokee,2005,185289,Chicago,2024-12-09
+Jeep,Wrangler,2021,122476,Miami,2025-01-26
+Mercedes-Benz,GLC,2016,187302,Houston,2024-12-09
+Jeep,Grand Cherokee,2014,117584,Seattle,2024-12-18
+Tesla,Model S,2018,83157,Los Angeles,2024-12-27
+Ford,Escape,2003,53913,Miami,2024-12-11
+Jeep,Wrangler,2008,73371,Chicago,2024-12-08
+Mercedes-Benz,S-Class,2019,155266,Dallas,2025-02-11
+Tesla,Model 3,2005,185036,San Francisco,2025-01-11
+Hyundai,Kona,2007,51715,San Francisco,2025-01-12
+Tesla,Model S,2007,144999,Chicago,2025-01-09
+Hyundai,Tucson,2009,134498,Miami,2025-02-12
+BMW,X3,2002,184658,Phoenix,2025-01-16
+BMW,3 Series,2000,175643,Dallas,2024-12-20
+Chevrolet,Silverado,2004,133421,San Francisco,2025-01-16
+Chevrolet,Camaro,2004,69978,Dallas,2024-12-09
+Chevrolet,Malibu,2019,18747,Seattle,2024-12-19
+Honda,CR-V,2007,118294,San Francisco,2025-02-15
+Mercedes-Benz,C-Class,2007,29282,Dallas,2024-12-06
+Ford,Fusion,2011,37458,Chicago,2025-01-07
+Nissan,Altima,2017,171855,Miami,2025-02-27
+Ford,F-150,2005,94441,Miami,2025-01-23
+Honda,CR-V,2022,93699,New York,2025-02-16
+Tesla,Model X,2014,84461,San Francisco,2025-03-03
+Hyundai,Sonata,2011,76822,San Francisco,2024-12-07
+Chevrolet,Silverado,2014,38184,Phoenix,2025-01-09
+Ford,F-150,2006,15380,Seattle,2025-01-03
+Chevrolet,Silverado,2003,153370,New York,2025-01-01
+BMW,Z4,2017,160625,Phoenix,2025-02-03
+Hyundai,Kona,2018,151477,Seattle,2025-02-17
+Nissan,Titan,2002,114281,Dallas,2025-01-24
+Hyundai,Tucson,2002,107917,Atlanta,2025-02-18
+Mercedes-Benz,GLC,2021,105475,Phoenix,2025-01-25
+Mercedes-Benz,S-Class,2002,168874,Dallas,2025-01-04
+Jeep,Wrangler,2021,44644,Atlanta,2024-12-15
+Toyota,RAV4,2013,189520,Los Angeles,2024-12-12
+Toyota,Tacoma,2003,149523,Los Angeles,2025-02-11
+Ford,F-150,2022,140648,Phoenix,2024-12-21
+Mercedes-Benz,E-Class,2009,83312,Houston,2025-02-26
+Nissan,Altima,2001,49601,Phoenix,2025-01-18
+Jeep,Cherokee,2005,151367,Atlanta,2025-02-11
+Ford,Escape,2009,170498,New York,2025-02-18
+Jeep,Cherokee,2012,80340,New York,2025-01-04
+Hyundai,Elantra,2014,192582,New York,2025-02-22
+Honda,Civic,2016,43550,Chicago,2025-01-18
+Toyota,Highlander,2004,186331,Miami,2025-01-16
+Mercedes-Benz,GLC,2012,142118,San Francisco,2024-12-17
+Ford,Fusion,2009,30736,Chicago,2025-02-17
+Hyundai,Sonata,2023,152247,San Francisco,2025-01-02
+Honda,Pilot,2008,36485,Phoenix,2025-02-06
+Ford,Fusion,2022,164373,Seattle,2025-02-23
+Honda,CR-V,2022,12576,Miami,2025-02-18
+BMW,X3,2006,40291,Houston,2024-12-09
+Nissan,Sentra,2020,88683,Seattle,2025-02-12
+BMW,X3,2004,154023,Los Angeles,2025-03-01
+Hyundai,Santa Fe,2013,193094,Houston,2025-01-04
+Toyota,RAV4,2008,117407,Atlanta,2025-02-28
+Chevrolet,Silverado,2012,158072,Chicago,2024-12-10
+Tesla,Model X,2013,199546,Phoenix,2024-12-13
+Chevrolet,Equinox,2014,106092,New York,2025-03-03
+Ford,Escape,2010,170204,Houston,2025-02-26
+Honda,Civic,2019,155662,San Francisco,2024-12-07
+Ford,Mustang,2015,178024,Dallas,2025-02-23
+Chevrolet,Camaro,2002,133193,Atlanta,2024-12-28
+Ford,Escape,2004,96227,Phoenix,2025-02-21
+Ford,Explorer,2014,85746,New York,2024-12-21
+Mercedes-Benz,C-Class,2019,172892,Chicago,2025-02-06
+Toyota,Tacoma,2011,181041,Houston,2025-01-27
+Jeep,Cherokee,2013,14647,New York,2025-01-21
+Ford,Mustang,2003,124614,Chicago,2024-12-16
+Mercedes-Benz,C-Class,2000,81914,Dallas,2024-12-25
+Chevrolet,Camaro,2014,42231,Los Angeles,2025-02-02
+Ford,F-150,2005,19450,Seattle,2025-01-16
+Tesla,Model 3,2004,74781,New York,2025-01-04
+BMW,X3,2005,94093,Los Angeles,2024-12-18
+Chevrolet,Camaro,2011,141183,Phoenix,2025-02-09
+Tesla,Model Y,2003,113784,Los Angeles,2025-01-01
+Chevrolet,Camaro,2006,72550,Los Angeles,2024-12-17
+Tesla,Model 3,2015,61784,Atlanta,2025-02-01
+Nissan,Pathfinder,2007,133182,Seattle,2025-02-20
+Toyota,RAV4,2022,64480,Miami,2025-01-22
+Hyundai,Tucson,2023,184844,Los Angeles,2025-02-07
+Toyota,Camry,2000,57045,Dallas,2025-02-18
+BMW,X3,2021,134707,Chicago,2024-12-30
+Ford,Escape,2012,60439,Phoenix,2024-12-23
+Toyota,Camry,2000,111742,Atlanta,2025-01-24
+BMW,5 Series,2022,61982,Houston,2025-02-17
+Nissan,Titan,2021,104737,Chicago,2025-03-02
+Chevrolet,Camaro,2022,85016,Dallas,2025-01-02
+Jeep,Compass,2007,187184,Chicago,2024-12-08
+Honda,Pilot,2011,127219,Chicago,2024-12-14
+Tesla,Model X,2000,192458,Seattle,2025-02-01
+Toyota,Camry,2000,33909,Los Angeles,2024-12-20
+BMW,5 Series,2001,26358,Houston,2025-01-21
+Jeep,Renegade,2016,41458,Houston,2025-02-05
+Nissan,Altima,2023,166815,Seattle,2025-02-09
+Toyota,Highlander,2011,146540,Chicago,2024-12-16
+Mercedes-Benz,S-Class,2020,172112,Los Angeles,2025-02-07
+Jeep,Cherokee,2022,80393,Phoenix,2024-12-16
+Toyota,Highlander,2006,120537,Atlanta,2025-02-24
+BMW,X3,2002,19807,San Francisco,2024-12-21
+Toyota,RAV4,2022,63735,Chicago,2025-02-06
+Hyundai,Kona,2020,13803,New York,2025-03-04
+Hyundai,Kona,2006,158936,Houston,2025-02-27
+Tesla,Model Y,2010,171317,Dallas,2025-01-13
+Honda,Civic,2018,46633,Los Angeles,2024-12-22
+Toyota,Camry,2003,40450,New York,2025-01-31
+Tesla,Model X,2004,108701,Dallas,2025-01-22
+Mercedes-Benz,GLE,2009,138798,Seattle,2024-12-09
+Jeep,Cherokee,2022,199180,Miami,2025-02-13
+Jeep,Wrangler,2014,62933,Seattle,2024-12-23
+Chevrolet,Malibu,2011,25324,Miami,2025-01-31
+Hyundai,Tucson,2011,63842,New York,2025-02-17
+BMW,5 Series,2014,173477,Atlanta,2025-02-05
+Mercedes-Benz,E-Class,2021,158752,San Francisco,2025-01-24
+BMW,X3,2011,140271,Atlanta,2024-12-08
+Nissan,Titan,2023,64077,Chicago,2025-02-26
+Honda,Accord,2019,43706,Miami,2025-02-11
+Chevrolet,Malibu,2020,120840,Atlanta,2024-12-10
+Nissan,Titan,2004,107887,Dallas,2025-01-17
+Ford,Explorer,2014,117390,Chicago,2024-12-17
+Nissan,Titan,2002,168438,Miami,2025-01-30
+Mercedes-Benz,C-Class,2002,30564,San Francisco,2025-01-07
+Nissan,Rogue,2006,63332,Los Angeles,2025-01-05
+Tesla,Model 3,2000,169968,Los Angeles,2025-02-14
+Honda,Pilot,2015,95846,Miami,2025-01-01
+Chevrolet,Tahoe,2011,96099,San Francisco,2025-02-06
+Toyota,RAV4,2020,116241,Atlanta,2025-01-12
+Mercedes-Benz,E-Class,2010,103232,Dallas,2025-01-29
+Jeep,Cherokee,2009,34600,Chicago,2025-02-27
+Honda,Civic,2006,174892,Los Angeles,2025-02-04
+Ford,F-150,2011,35922,Houston,2024-12-29
+Nissan,Pathfinder,2020,156289,Miami,2025-02-06
+Ford,Fusion,2016,17644,Dallas,2025-01-11
+Tesla,Model 3,2015,54256,Atlanta,2024-12-11
+Nissan,Pathfinder,2006,120683,Los Angeles,2025-02-10
+Chevrolet,Silverado,2022,177496,Atlanta,2025-01-04
+Ford,Fusion,2003,88328,Houston,2025-03-01
+Hyundai,Elantra,2005,57186,Atlanta,2024-12-10
+BMW,Z4,2022,134466,New York,2025-01-26
+Jeep,Grand Cherokee,2015,69771,Seattle,2025-01-26
+Hyundai,Sonata,2002,138651,Atlanta,2025-02-01
+Nissan,Titan,2020,182954,Houston,2025-02-18
+Chevrolet,Malibu,2012,130137,Atlanta,2025-02-22
+Tesla,Model S,2017,175798,Miami,2025-01-23
+Mercedes-Benz,GLC,2017,89483,New York,2024-12-10
+Nissan,Rogue,2018,162727,San Francisco,2025-03-01
+Ford,Escape,2004,174907,Seattle,2025-02-12
+Ford,Fusion,2018,116113,Houston,2024-12-11
+Tesla,Model 3,2007,110829,Miami,2025-01-19
+Chevrolet,Silverado,2016,133828,San Francisco,2025-01-14
+Ford,Mustang,2012,62748,Chicago,2025-01-20
+Toyota,Corolla,2017,103034,Seattle,2025-01-29
+Hyundai,Elantra,2017,64081,Seattle,2025-02-26
+Tesla,Model S,2006,187045,Phoenix,2025-01-06
+Honda,Pilot,2020,19856,Chicago,2025-02-10
+BMW,X5,2020,75301,Phoenix,2024-12-24
+Ford,F-150,2012,170007,Los Angeles,2025-02-26
+Mercedes-Benz,E-Class,2023,158689,Dallas,2025-02-09
+Jeep,Grand Cherokee,2000,42897,Chicago,2025-01-30
+Honda,Pilot,2015,171955,Seattle,2025-01-18
+Nissan,Rogue,2008,112328,Phoenix,2025-02-12
+Nissan,Rogue,2004,97626,Chicago,2025-01-27
+Nissan,Pathfinder,2015,28919,Phoenix,2025-02-21
+Ford,Escape,2014,188810,Miami,2025-01-18
+Ford,Escape,2021,55414,San Francisco,2025-01-24
+Tesla,Model Y,2014,38496,Miami,2025-01-31
+Hyundai,Elantra,2001,86947,Phoenix,2024-12-22
+BMW,3 Series,2013,127160,Houston,2024-12-28
+Jeep,Cherokee,2002,122523,New York,2025-01-27
+BMW,Z4,2021,115668,Houston,2025-02-23
+BMW,X3,2012,5977,Houston,2025-02-19
+Mercedes-Benz,E-Class,2019,30862,Phoenix,2025-03-04
+BMW,X5,2022,95197,Seattle,2024-12-29
+Ford,F-150,2006,11199,San Francisco,2024-12-28
+BMW,5 Series,2004,76192,Phoenix,2024-12-27
+Toyota,RAV4,2015,14539,Dallas,2025-01-06
+Hyundai,Tucson,2010,97883,Houston,2025-02-15
+Nissan,Titan,2011,89518,Seattle,2024-12-30
+Chevrolet,Silverado,2020,124913,Los Angeles,2025-02-17
+Hyundai,Kona,2021,160018,San Francisco,2024-12-06
+Honda,Civic,2018,111233,Atlanta,2024-12-23
+Nissan,Pathfinder,2017,163469,Houston,2025-02-06
+Toyota,Corolla,2004,132752,San Francisco,2025-01-31
+Tesla,Model 3,2015,48527,San Francisco,2024-12-17
+Chevrolet,Malibu,2007,11950,New York,2025-02-18
+Jeep,Wrangler,2014,97123,New York,2025-01-20
+Ford,Fusion,2014,33291,Phoenix,2025-02-17
+Hyundai,Sonata,2018,127541,Houston,2024-12-09
+Hyundai,Santa Fe,2007,110461,New York,2025-02-15
+Mercedes-Benz,E-Class,2017,124905,Phoenix,2025-03-03
+Jeep,Renegade,2021,181567,New York,2025-01-22
+Tesla,Model 3,2022,60536,New York,2024-12-30
+Jeep,Wrangler,2019,95091,Los Angeles,2025-01-07
+Chevrolet,Tahoe,2019,86742,Phoenix,2024-12-09
+Chevrolet,Silverado,2022,28606,Seattle,2025-01-03
+Jeep,Compass,2016,86853,San Francisco,2025-02-02
+Jeep,Wrangler,2015,37618,Phoenix,2024-12-22
+Toyota,Highlander,2005,121080,Dallas,2025-02-19
+Jeep,Cherokee,2021,117983,Chicago,2025-02-22
+BMW,X5,2003,115035,Atlanta,2024-12-23
+Hyundai,Kona,2021,157925,New York,2025-02-18
+Hyundai,Elantra,2002,144987,Dallas,2025-01-06
+Mercedes-Benz,GLE,2021,144424,Phoenix,2025-02-21
+Mercedes-Benz,E-Class,2019,33230,Los Angeles,2025-02-12
+Chevrolet,Equinox,2004,21950,San Francisco,2025-02-27
+Tesla,Model 3,2002,189540,San Francisco,2025-01-28
+Hyundai,Elantra,2016,142609,Seattle,2025-02-16
+Nissan,Titan,2012,184871,Miami,2025-02-14
+Chevrolet,Equinox,2013,133753,Dallas,2024-12-28
+Honda,Fit,2017,45088,Dallas,2024-12-17
+Hyundai,Santa Fe,2014,38361,Atlanta,2024-12-30
+Hyundai,Kona,2023,45603,Seattle,2025-01-22
+Hyundai,Kona,2021,169126,Miami,2025-01-02
+Hyundai,Elantra,2008,45912,Los Angeles,2025-03-03
+Chevrolet,Equinox,2011,72399,Chicago,2024-12-17
+Nissan,Rogue,2013,42649,Phoenix,2025-01-25
+Hyundai,Sonata,2020,36471,Atlanta,2025-01-31
+Ford,F-150,2022,166898,Houston,2025-01-11
+Jeep,Grand Cherokee,2011,88265,Chicago,2024-12-28
+Tesla,Model Y,2015,112323,San Francisco,2025-02-22
+Mercedes-Benz,GLE,2022,41822,Houston,2025-02-24
+Jeep,Cherokee,2010,166505,New York,2025-01-26
+BMW,3 Series,2022,150573,Seattle,2025-02-06
+Toyota,Corolla,2012,29918,San Francisco,2025-01-12
+Ford,Fusion,2019,105476,Atlanta,2025-03-01
+Toyota,Tacoma,2014,41985,New York,2025-01-21
+Jeep,Renegade,2016,114298,Atlanta,2025-01-02
+Mercedes-Benz,GLC,2005,75278,San Francisco,2025-01-20
+Honda,Fit,2020,125265,Atlanta,2025-03-02
+Nissan,Rogue,2015,198769,Los Angeles,2025-03-03
+Hyundai,Santa Fe,2014,11940,Chicago,2025-01-01
+Mercedes-Benz,C-Class,2010,120764,Chicago,2024-12-29
+Tesla,Model X,2018,153761,Dallas,2024-12-25
+Honda,Accord,2010,171004,Chicago,2025-01-12
+Jeep,Wrangler,2023,6663,San Francisco,2025-03-04
+Nissan,Sentra,2017,142929,Houston,2025-01-16
+Hyundai,Kona,2002,123345,Phoenix,2025-01-14
+Toyota,RAV4,2019,122782,Seattle,2025-02-21
+Nissan,Pathfinder,2020,79008,Los Angeles,2025-02-14
+Honda,Accord,2009,49261,San Francisco,2025-02-17
+Toyota,Camry,2000,37673,Houston,2024-12-25
+Nissan,Altima,2009,98607,Chicago,2024-12-05
+Nissan,Altima,2003,17445,Miami,2024-12-10
+Honda,Accord,2003,23209,Phoenix,2025-02-15
+Ford,Fusion,2004,107883,New York,2024-12-31
+Jeep,Renegade,2008,21712,Los Angeles,2025-01-03
+BMW,Z4,2007,83146,Seattle,2024-12-07
+Chevrolet,Camaro,2004,20418,New York,2024-12-21
+Jeep,Wrangler,2019,50727,Houston,2024-12-16
+BMW,3 Series,2008,52636,Los Angeles,2025-02-12
+Honda,Pilot,2022,78888,Chicago,2025-01-21
+Toyota,Highlander,2022,96981,Houston,2025-02-28
+Tesla,Model S,2008,30984,Los Angeles,2025-01-19
+Chevrolet,Silverado,2012,59488,Seattle,2025-02-08
+Mercedes-Benz,GLE,2015,129438,Phoenix,2025-02-21
+Ford,F-150,2014,8436,San Francisco,2025-03-03
+Mercedes-Benz,E-Class,2010,166798,New York,2025-01-09
+Toyota,RAV4,2017,84082,Los Angeles,2025-01-30
+Ford,Mustang,2019,176284,Dallas,2024-12-20
+Chevrolet,Tahoe,2000,129045,Houston,2024-12-18
+Chevrolet,Silverado,2012,162296,New York,2024-12-11
+Chevrolet,Malibu,2005,88953,Dallas,2024-12-30
+Chevrolet,Equinox,2007,195531,New York,2025-01-04
+Tesla,Model X,2003,41480,Dallas,2025-01-08
+Honda,Accord,2016,126228,Seattle,2025-02-19
+Toyota,Corolla,2004,189613,San Francisco,2024-12-11
+Mercedes-Benz,GLE,2003,46226,Seattle,2025-02-16
+Hyundai,Sonata,2004,59635,New York,2024-12-29
+Nissan,Altima,2011,67871,Seattle,2024-12-06
+Tesla,Model S,2005,71724,Phoenix,2025-02-02
+Tesla,Model X,2019,114250,Phoenix,2025-02-04
+Chevrolet,Tahoe,2017,90334,Houston,2024-12-30
+Chevrolet,Tahoe,2011,149722,Dallas,2024-12-17
+BMW,X5,2023,88145,Miami,2025-02-05
+Honda,Pilot,2002,193887,Phoenix,2024-12-06
+Chevrolet,Equinox,2017,106475,Miami,2025-01-10
+Tesla,Model Y,2021,170175,New York,2025-01-11
+Toyota,RAV4,2003,58282,Atlanta,2024-12-07
+Honda,Pilot,2005,195608,Los Angeles,2024-12-11
+Jeep,Cherokee,2004,97733,Los Angeles,2025-01-07
+Mercedes-Benz,GLC,2004,119760,Dallas,2025-01-12
+Nissan,Titan,2002,100724,Dallas,2024-12-26
+BMW,X3,2008,168206,Seattle,2025-02-17
+Tesla,Model S,2002,153397,Phoenix,2024-12-22
+Ford,Escape,2013,42634,San Francisco,2025-01-14
+Toyota,Highlander,2015,172693,Seattle,2024-12-19
+Nissan,Sentra,2014,185723,Atlanta,2025-01-08
+Honda,Civic,2015,13788,Phoenix,2025-01-18
+BMW,X5,2010,147503,Houston,2025-02-03
+Chevrolet,Equinox,2008,8479,San Francisco,2025-02-15
+Mercedes-Benz,GLE,2001,122191,Phoenix,2025-02-24
+Ford,Explorer,2014,54408,Los Angeles,2025-01-07
+BMW,X3,2010,10900,Phoenix,2025-03-03
+Jeep,Wrangler,2011,139073,Miami,2025-01-22
+Tesla,Model 3,2005,25381,San Francisco,2025-01-19
+Hyundai,Santa Fe,2006,104626,Chicago,2025-03-04
+Hyundai,Santa Fe,2001,21382,Seattle,2025-02-15
+BMW,3 Series,2015,6233,New York,2024-12-12
+Hyundai,Sonata,2013,176823,Chicago,2024-12-30
+Hyundai,Santa Fe,2002,120804,Houston,2025-02-23
+BMW,X5,2001,197838,Los Angeles,2025-02-25
+Hyundai,Kona,2015,111524,New York,2024-12-21
+Toyota,Corolla,2016,148991,Seattle,2024-12-12
+BMW,X5,2004,26607,Phoenix,2025-02-09
+Ford,Escape,2016,23218,Seattle,2025-01-27
+Honda,Civic,2019,61291,Phoenix,2025-02-06
+Hyundai,Tucson,2013,8328,Miami,2025-01-29
+Jeep,Grand Cherokee,2010,36639,Chicago,2025-01-19
+Tesla,Model 3,2016,27387,Houston,2025-01-22
+BMW,X3,2009,70319,Los Angeles,2025-01-26
+Toyota,Tacoma,2023,159752,New York,2025-02-13
+Toyota,RAV4,2016,183340,Miami,2025-01-05
+Mercedes-Benz,GLC,2014,18300,San Francisco,2025-03-02
+BMW,X5,2012,33904,Seattle,2024-12-08
+Tesla,Model 3,2017,81342,Phoenix,2025-01-11
+Nissan,Pathfinder,2002,190388,Phoenix,2025-02-16
+Honda,Accord,2017,125586,Dallas,2024-12-23
+Nissan,Altima,2011,54538,Dallas,2024-12-26
+Nissan,Titan,2012,193497,Seattle,2025-02-21
+BMW,5 Series,2019,73266,Los Angeles,2024-12-06
+Hyundai,Sonata,2015,167744,Seattle,2025-01-16
+BMW,X3,2007,151898,Dallas,2025-02-02
+Hyundai,Santa Fe,2015,167548,Houston,2025-02-19
+Honda,CR-V,2000,85501,Los Angeles,2024-12-08
+Jeep,Cherokee,2006,31152,Phoenix,2025-01-16
+Tesla,Model X,2021,189307,Seattle,2025-01-11
+Honda,CR-V,2017,194435,Chicago,2024-12-29
+Chevrolet,Camaro,2011,56006,Dallas,2025-03-01
+Nissan,Sentra,2010,63290,Seattle,2024-12-12
+Honda,Pilot,2018,155654,Houston,2025-02-05
+Honda,Accord,2003,178134,Los Angeles,2025-01-30
+Nissan,Rogue,2008,102881,Dallas,2025-02-24
+Honda,CR-V,2017,162608,Miami,2025-02-19
+BMW,Z4,2018,57629,San Francisco,2024-12-19
+Toyota,RAV4,2013,35988,Phoenix,2025-01-18
+Honda,Civic,2015,12978,New York,2025-02-18
+Mercedes-Benz,S-Class,2004,68903,San Francisco,2025-03-02
+Hyundai,Tucson,2009,98007,Los Angeles,2025-03-03
+Honda,Civic,2016,184237,San Francisco,2025-01-09
+Honda,Civic,2015,96338,Houston,2024-12-21
+Jeep,Compass,2006,122910,Los Angeles,2025-02-21
+Nissan,Altima,2008,146272,Los Angeles,2024-12-19
+Chevrolet,Equinox,2008,67764,Chicago,2024-12-25
+Toyota,RAV4,2020,16693,Los Angeles,2025-02-04
+Tesla,Model Y,2021,22600,Miami,2025-02-18
+Toyota,RAV4,2000,22301,Chicago,2024-12-22
+Chevrolet,Camaro,2014,29670,Miami,2025-01-23
+Ford,Fusion,2023,163364,Miami,2025-01-05
+Nissan,Titan,2014,59615,Atlanta,2025-01-22
+Honda,CR-V,2010,21231,New York,2025-01-14
+Toyota,Highlander,2013,85662,San Francisco,2025-01-09
+Chevrolet,Tahoe,2022,29188,New York,2025-01-02
+Ford,F-150,2020,85637,Houston,2025-01-10
+BMW,5 Series,2003,132795,Houston,2024-12-26
+Chevrolet,Malibu,2017,12591,Chicago,2025-02-24
+Chevrolet,Camaro,2003,98870,Atlanta,2024-12-19
+Tesla,Model X,2022,95495,New York,2025-01-31
+Ford,Fusion,2003,149897,Seattle,2025-01-26
+Nissan,Titan,2020,132690,New York,2024-12-26
+Nissan,Titan,2018,180278,New York,2025-01-02
+Mercedes-Benz,GLC,2007,140511,Los Angeles,2024-12-28
+Toyota,Highlander,2014,39630,San Francisco,2025-02-27
+Toyota,Highlander,2009,130905,Houston,2025-02-21
+Chevrolet,Malibu,2015,197715,Phoenix,2024-12-21
+Hyundai,Kona,2016,72969,Dallas,2025-03-03
+Toyota,Highlander,2004,76534,Phoenix,2025-03-03
+Chevrolet,Silverado,2005,53044,Miami,2024-12-14
+Jeep,Renegade,2021,112606,Chicago,2024-12-05
+Ford,Mustang,2011,140372,Los Angeles,2025-01-01
+Hyundai,Elantra,2014,106194,Dallas,2024-12-11
+Hyundai,Tucson,2001,10800,Dallas,2025-03-01
+Ford,Fusion,2017,118980,San Francisco,2024-12-15
+Chevrolet,Tahoe,2018,173181,Houston,2024-12-24
+Tesla,Model 3,2003,27703,New York,2025-02-07
+Nissan,Rogue,2001,199123,Phoenix,2025-01-12
+Jeep,Wrangler,2001,130546,Miami,2025-01-06
+Mercedes-Benz,GLE,2009,30883,San Francisco,2025-01-20
+Ford,F-150,2015,97491,Phoenix,2025-01-28
+Nissan,Altima,2019,20714,New York,2025-03-01
+Toyota,Tacoma,2011,68414,Houston,2025-02-28
+Jeep,Grand Cherokee,2021,105600,Phoenix,2025-02-07
+Honda,Pilot,2008,63258,Houston,2024-12-18
+Honda,Accord,2001,38875,New York,2025-01-15
+Hyundai,Sonata,2002,139611,New York,2025-01-02
+Tesla,Model X,2003,171633,Atlanta,2024-12-18
+Tesla,Model S,2020,82338,New York,2025-02-06
+BMW,Z4,2005,55871,Seattle,2024-12-16
+Nissan,Pathfinder,2020,51010,Dallas,2025-02-23
+Honda,Pilot,2010,39660,Houston,2025-01-30
+Mercedes-Benz,C-Class,2017,94396,Los Angeles,2024-12-27
+Tesla,Model S,2011,56436,Atlanta,2025-01-04
+Tesla,Model X,2005,109632,Dallas,2024-12-15
+Jeep,Grand Cherokee,2005,99237,Chicago,2025-02-12
+Chevrolet,Equinox,2023,85906,Phoenix,2025-02-11
+Mercedes-Benz,GLC,2001,70079,Dallas,2025-01-01
+Mercedes-Benz,GLC,2005,75939,Miami,2024-12-18
+Mercedes-Benz,GLC,2020,71312,New York,2025-02-21
+Jeep,Compass,2020,52668,Phoenix,2025-02-08
+BMW,Z4,2005,34103,Atlanta,2025-01-20
+Nissan,Rogue,2008,195726,Chicago,2025-01-21
+Nissan,Pathfinder,2001,165784,Seattle,2024-12-26
+Hyundai,Sonata,2010,198032,Chicago,2025-01-21
+Nissan,Titan,2009,72159,Chicago,2025-02-28
+Honda,Civic,2017,33742,Miami,2025-01-08
+Mercedes-Benz,GLC,2014,173949,Chicago,2025-03-02
+Ford,Explorer,2023,181402,Chicago,2025-01-15
+Chevrolet,Malibu,2010,147673,Phoenix,2025-02-05
+Toyota,Tacoma,2014,128876,San Francisco,2024-12-09
+Jeep,Grand Cherokee,2000,179278,New York,2025-02-20
+Honda,Pilot,2011,27126,San Francisco,2025-02-04
+Chevrolet,Malibu,2007,185483,Seattle,2024-12-30
+Chevrolet,Silverado,2010,28789,Miami,2025-01-05
+Mercedes-Benz,E-Class,2006,185812,Dallas,2025-02-23
+Jeep,Compass,2013,82717,San Francisco,2025-02-12
+Tesla,Model Y,2001,23566,Miami,2025-01-22
+Mercedes-Benz,E-Class,2008,76116,Phoenix,2025-02-15
+Jeep,Wrangler,2022,188769,Seattle,2025-01-10
+Chevrolet,Tahoe,2010,5889,Miami,2024-12-16
+Toyota,Highlander,2018,172550,Seattle,2025-01-30
+Toyota,Tacoma,2014,115858,New York,2025-01-03
+Toyota,Camry,2020,115924,Houston,2024-12-24
+Chevrolet,Camaro,2003,10909,Miami,2025-01-15
+Honda,Civic,2019,185638,Miami,2025-01-07
+Tesla,Model X,2014,181535,Seattle,2024-12-09
+Tesla,Model X,2004,61152,Miami,2025-03-02
+Toyota,RAV4,2006,161234,Dallas,2025-02-14
+Chevrolet,Silverado,2018,177826,Miami,2025-01-23
+Ford,F-150,2003,103302,Chicago,2025-03-02
+Toyota,Tacoma,2017,120165,Phoenix,2024-12-19
+BMW,X3,2003,177651,Seattle,2025-01-21
+Jeep,Grand Cherokee,2015,94660,Seattle,2025-03-03
+Nissan,Rogue,2004,189367,Miami,2025-01-27
+Chevrolet,Malibu,2015,65084,Atlanta,2025-01-22
+Mercedes-Benz,GLC,2006,141666,Miami,2025-01-07
+Toyota,Camry,2012,38064,Dallas,2025-02-05
+Chevrolet,Tahoe,2003,165274,Dallas,2025-01-12
+Toyota,Camry,2003,28115,Chicago,2024-12-12
+Hyundai,Elantra,2023,31933,Chicago,2025-01-04
+Toyota,Tacoma,2009,13962,Los Angeles,2025-02-18
+Hyundai,Elantra,2008,36184,Los Angeles,2025-02-24
+BMW,X5,2003,109587,Atlanta,2025-01-14
+BMW,X3,2015,177860,New York,2025-02-26
+Mercedes-Benz,GLC,2001,48629,Chicago,2025-01-21
+Mercedes-Benz,C-Class,2008,28297,Miami,2024-12-10
+Jeep,Wrangler,2003,26792,San Francisco,2025-02-14
+Nissan,Titan,2016,22517,Phoenix,2025-03-01
+Ford,Explorer,2020,187985,Seattle,2024-12-30
+Chevrolet,Malibu,2005,141232,Phoenix,2025-02-19
+Chevrolet,Silverado,2022,193807,Seattle,2025-01-03
+Jeep,Wrangler,2005,91746,Seattle,2024-12-21
+Ford,Fusion,2003,53912,Miami,2025-01-14
+BMW,X3,2017,35524,Seattle,2025-01-15
+Mercedes-Benz,E-Class,2016,138200,San Francisco,2025-01-30
+Jeep,Grand Cherokee,2018,97019,Dallas,2024-12-16
+Nissan,Altima,2021,141613,Seattle,2025-01-05
+Ford,Explorer,2010,128247,New York,2025-02-07
+Hyundai,Sonata,2022,140097,Atlanta,2024-12-12
+Honda,Civic,2016,53987,Miami,2024-12-13
+Tesla,Model Y,2003,169883,Chicago,2024-12-22
+Tesla,Model X,2006,15928,New York,2025-02-16
+Nissan,Pathfinder,2004,109698,San Francisco,2024-12-16
+Tesla,Model 3,2013,194213,Los Angeles,2025-01-04
+BMW,Z4,2001,165065,Atlanta,2024-12-15
+Hyundai,Tucson,2008,40820,Houston,2025-02-14
+Hyundai,Kona,2017,154910,Dallas,2025-02-20
+Chevrolet,Tahoe,2023,5793,Houston,2024-12-18
+Mercedes-Benz,E-Class,2006,121496,San Francisco,2024-12-14
+Mercedes-Benz,GLE,2007,182056,Houston,2024-12-27
+Ford,Mustang,2014,25462,San Francisco,2025-01-21
+Tesla,Model X,2013,84156,San Francisco,2024-12-12
+Toyota,RAV4,2010,58950,Chicago,2025-01-13
+Ford,F-150,2006,170315,Phoenix,2025-01-13
+Toyota,Highlander,2011,187473,Miami,2025-02-22
+Toyota,RAV4,2016,197374,Houston,2025-01-29
+Ford,Fusion,2008,153589,Atlanta,2025-03-03
+BMW,X3,2003,112763,Houston,2025-02-07
+BMW,3 Series,2011,48578,Miami,2024-12-23
+Ford,Escape,2005,52983,San Francisco,2025-02-17
+Mercedes-Benz,E-Class,2022,20972,San Francisco,2025-02-23
+Mercedes-Benz,E-Class,2023,118669,Los Angeles,2024-12-07
+Jeep,Cherokee,2017,179381,Phoenix,2025-01-07
+Mercedes-Benz,GLE,2011,138245,Phoenix,2024-12-06
+Toyota,Corolla,2003,57526,San Francisco,2025-01-04
+Hyundai,Sonata,2001,18636,Chicago,2025-02-07
+BMW,X3,2011,176952,Seattle,2025-01-23
+Honda,Accord,2014,121283,Los Angeles,2025-01-20
+Jeep,Grand Cherokee,2014,180066,Miami,2024-12-16
+Honda,Accord,2020,51257,Seattle,2024-12-17
+Ford,Escape,2014,14139,New York,2025-02-03
+Toyota,Tacoma,2013,131880,Miami,2025-02-13
+Ford,Mustang,2004,58498,New York,2025-02-13
+Nissan,Pathfinder,2017,52961,Houston,2025-01-26
+Chevrolet,Camaro,2015,113406,Houston,2024-12-06
+Jeep,Compass,2019,72421,Phoenix,2025-02-08
+Chevrolet,Tahoe,2011,5857,Chicago,2025-01-24
+Mercedes-Benz,GLE,2001,14050,Los Angeles,2025-02-25
+Tesla,Model 3,2013,50498,Seattle,2025-01-24
+Mercedes-Benz,GLE,2009,31785,Dallas,2025-02-22
+Jeep,Cherokee,2019,175937,New York,2025-01-07
+Jeep,Renegade,2008,165105,Phoenix,2025-02-02
+Chevrolet,Tahoe,2015,120935,Houston,2024-12-08
+Jeep,Compass,2006,7399,San Francisco,2024-12-08
+Hyundai,Kona,2005,104056,Seattle,2025-02-07
+Hyundai,Elantra,2012,172180,New York,2025-01-12
+Honda,CR-V,2005,167938,Chicago,2025-02-21
+Jeep,Renegade,2014,184583,Phoenix,2025-01-02
+Honda,CR-V,2012,143115,Seattle,2025-02-01
+Nissan,Sentra,2012,145361,Los Angeles,2025-03-04
+Hyundai,Santa Fe,2020,14441,Atlanta,2025-02-23
+Toyota,Tacoma,2022,110669,Atlanta,2024-12-09
+Honda,Accord,2001,5645,Los Angeles,2025-01-29
+Tesla,Model X,2014,135159,San Francisco,2025-02-03
+Jeep,Compass,2017,185610,Chicago,2025-03-04
+Hyundai,Santa Fe,2012,75481,Los Angeles,2025-02-11
+Chevrolet,Tahoe,2004,115468,Houston,2025-01-28
+BMW,X5,2014,19364,Miami,2025-02-18
+Ford,Mustang,2015,90128,Chicago,2025-01-24
+Mercedes-Benz,E-Class,2001,82123,Dallas,2025-02-17
+Hyundai,Tucson,2003,24009,Phoenix,2025-01-21
+BMW,X5,2015,97644,San Francisco,2025-02-01
+Nissan,Titan,2000,198824,Miami,2025-02-27
+BMW,X3,2018,130920,San Francisco,2025-01-27
+Chevrolet,Camaro,2004,186017,Los Angeles,2024-12-21
+Toyota,Highlander,2004,179090,Phoenix,2025-02-05
+Tesla,Model S,2021,167819,Chicago,2025-02-09
+Jeep,Wrangler,2006,144018,Phoenix,2025-02-12
+Honda,CR-V,2010,162780,Los Angeles,2025-02-25
+Tesla,Model S,2021,69434,Phoenix,2025-01-03
+Nissan,Titan,2021,157221,San Francisco,2025-02-18
+Honda,Accord,2017,168419,Phoenix,2025-02-04
+Honda,Pilot,2006,127615,Houston,2025-01-08
+Honda,CR-V,2002,190137,Los Angeles,2025-01-25
+Nissan,Altima,2009,199909,Miami,2025-02-21
+Jeep,Cherokee,2020,176854,Atlanta,2024-12-17
+Tesla,Model X,2007,50869,San Francisco,2025-02-17
+Toyota,Corolla,2005,18894,San Francisco,2025-02-25
+Honda,Pilot,2016,174811,Miami,2025-01-14
+Toyota,Tacoma,2021,34434,Seattle,2024-12-07
+Honda,CR-V,2019,32267,Seattle,2024-12-06
+BMW,X5,2023,45187,Houston,2025-03-02
+Nissan,Sentra,2022,10834,Houston,2025-02-22
+Nissan,Titan,2020,192530,Dallas,2025-02-15
+BMW,Z4,2020,100857,New York,2025-02-15
+Chevrolet,Silverado,2002,163188,Los Angeles,2024-12-21
+Nissan,Sentra,2007,95796,Chicago,2024-12-19
+Ford,Fusion,2007,102500,Dallas,2024-12-13
+Honda,Accord,2020,92600,Seattle,2024-12-21
+Honda,Pilot,2014,24912,New York,2024-12-10
+Ford,Fusion,2003,166202,San Francisco,2025-02-25
+Ford,Escape,2001,59710,Dallas,2025-02-13
+Chevrolet,Tahoe,2022,58171,Chicago,2025-01-26
+BMW,X3,2000,92200,San Francisco,2025-01-23
+Tesla,Model S,2012,141469,New York,2025-01-31
+Mercedes-Benz,GLC,2020,166142,San Francisco,2024-12-22
+Ford,Explorer,2002,68197,Los Angeles,2024-12-12
+Chevrolet,Camaro,2012,169822,Dallas,2025-01-20
+Mercedes-Benz,S-Class,2007,24151,Phoenix,2024-12-08
+Mercedes-Benz,E-Class,2000,53964,Chicago,2025-02-11
+Hyundai,Santa Fe,2014,27896,Chicago,2025-01-31
+Toyota,Corolla,2004,91600,Phoenix,2025-02-12
+Honda,CR-V,2004,90079,New York,2024-12-30
+BMW,5 Series,2017,78969,Seattle,2025-02-26
+Mercedes-Benz,GLC,2003,46058,Seattle,2024-12-17
+BMW,5 Series,2019,92477,Houston,2025-01-14
+Chevrolet,Equinox,2012,137880,Seattle,2025-02-02
+BMW,X3,2010,128372,Phoenix,2025-01-23
+Toyota,Camry,2018,97234,Dallas,2025-01-11
+Mercedes-Benz,GLE,2016,72260,New York,2025-01-07
+Toyota,Highlander,2015,162669,Chicago,2025-02-10
+BMW,Z4,2014,66359,New York,2025-01-12
+Nissan,Titan,2000,59838,Miami,2025-02-23
+Nissan,Rogue,2009,109039,Dallas,2025-02-15
+Chevrolet,Camaro,2003,9572,Atlanta,2025-02-06
+Tesla,Model 3,2016,176317,Atlanta,2024-12-08
+Chevrolet,Equinox,2004,164246,Los Angeles,2025-01-06
+Chevrolet,Silverado,2014,127699,Miami,2024-12-05
+Chevrolet,Silverado,2018,60293,Dallas,2024-12-16
+Nissan,Rogue,2003,123567,Miami,2025-02-28
+Toyota,Tacoma,2006,11626,Dallas,2025-02-20
+Ford,Fusion,2000,171540,Chicago,2024-12-27
+Chevrolet,Equinox,2007,77776,Miami,2025-02-04
+Honda,Fit,2006,152956,Phoenix,2025-01-14
+Ford,Fusion,2002,122536,Dallas,2024-12-25
+Nissan,Rogue,2008,116860,Los Angeles,2024-12-11
+BMW,3 Series,2007,148280,Los Angeles,2025-02-16
+Nissan,Altima,2009,49119,New York,2025-01-12
+Ford,F-150,2023,104818,Houston,2025-03-04
+Nissan,Sentra,2005,106123,Houston,2025-02-14
+BMW,X3,2012,50387,Dallas,2025-02-09
+BMW,Z4,2002,135062,Dallas,2024-12-16
+Nissan,Rogue,2004,170372,Miami,2025-03-03
+Ford,Mustang,2012,127809,Dallas,2025-01-15
+BMW,3 Series,2017,118985,Miami,2025-01-18
+Honda,Civic,2017,181640,San Francisco,2024-12-26
+Toyota,Corolla,2009,113995,Chicago,2025-01-31
+Hyundai,Tucson,2012,44581,New York,2025-01-28
+Hyundai,Kona,2004,145252,Chicago,2025-01-04
+Chevrolet,Equinox,2022,113059,Dallas,2025-01-18
+Tesla,Model Y,2012,92169,Los Angeles,2025-01-06
+BMW,Z4,2002,112860,Chicago,2025-01-03
+Nissan,Titan,2017,117778,New York,2024-12-21
+Tesla,Model Y,2014,146823,Los Angeles,2025-03-02
+Mercedes-Benz,S-Class,2006,187231,Seattle,2025-01-16
+Chevrolet,Silverado,2013,47816,Chicago,2025-02-20
+Chevrolet,Malibu,2014,55015,Atlanta,2025-02-22
+Tesla,Model S,2016,121173,Los Angeles,2025-01-29
+Tesla,Model X,2016,143142,New York,2024-12-06
+Mercedes-Benz,E-Class,2010,18601,Seattle,2024-12-31
+Honda,Accord,2019,20535,Los Angeles,2025-01-28
+Chevrolet,Silverado,2015,45848,Phoenix,2025-01-25
+Toyota,RAV4,2002,48737,Dallas,2025-02-03
+Hyundai,Tucson,2017,6620,San Francisco,2024-12-31
+Chevrolet,Camaro,2014,135962,Los Angeles,2024-12-22
+Honda,Fit,2016,176838,New York,2025-01-25
+Tesla,Model Y,2017,26714,Dallas,2024-12-16
+Jeep,Compass,2022,181441,Seattle,2025-02-03
+Honda,Civic,2004,164590,Dallas,2025-01-07
+Tesla,Model S,2001,62892,Chicago,2024-12-22
+Hyundai,Elantra,2008,162413,Miami,2024-12-11
+Hyundai,Tucson,2018,75621,Houston,2025-02-17
+Jeep,Renegade,2015,18111,Seattle,2025-01-11
+Mercedes-Benz,E-Class,2008,47168,Chicago,2025-02-09
+Hyundai,Kona,2000,189923,Chicago,2025-02-28
+Mercedes-Benz,S-Class,2016,179349,Atlanta,2024-12-28
+BMW,X3,2002,76668,Phoenix,2025-02-03
+Chevrolet,Malibu,2000,25186,Chicago,2025-03-01
+Chevrolet,Equinox,2005,75780,Miami,2025-02-12
+Nissan,Altima,2004,70191,Miami,2024-12-28
+BMW,5 Series,2018,153218,Atlanta,2024-12-21
+Jeep,Wrangler,2003,45772,Phoenix,2025-02-08
+Tesla,Model X,2019,41948,Chicago,2025-03-03
+Toyota,Corolla,2011,48785,Atlanta,2025-02-16
+Honda,CR-V,2007,94816,San Francisco,2024-12-17
+BMW,Z4,2004,44031,Chicago,2025-01-29
+Mercedes-Benz,GLE,2022,148403,Los Angeles,2024-12-26
+Hyundai,Santa Fe,2007,192186,Atlanta,2024-12-09
+Hyundai,Santa Fe,2013,149424,Dallas,2025-01-22
+BMW,X3,2009,75571,Miami,2025-02-19
+Honda,Fit,2017,62570,Houston,2025-02-28
+Ford,Mustang,2008,9060,San Francisco,2025-01-17
+Hyundai,Sonata,2012,42871,Houston,2025-01-16
+Honda,Civic,2020,166154,New York,2025-02-28
+BMW,5 Series,2003,158826,Chicago,2025-01-14
+Jeep,Cherokee,2006,130976,Miami,2025-02-27
+Tesla,Model 3,2007,142800,Atlanta,2025-02-02
+Jeep,Grand Cherokee,2023,87074,Chicago,2025-02-01
+BMW,5 Series,2022,138622,Atlanta,2024-12-13
+Mercedes-Benz,GLE,2016,96119,Phoenix,2025-01-03
+Honda,Fit,2015,136269,New York,2025-03-04
+Chevrolet,Equinox,2020,152914,Dallas,2025-02-17
+Mercedes-Benz,S-Class,2006,192039,Atlanta,2025-03-04
+Jeep,Wrangler,2012,117275,Phoenix,2024-12-20
+Chevrolet,Malibu,2015,157142,New York,2025-02-07
+Ford,Escape,2011,54766,San Francisco,2024-12-24
+Ford,Explorer,2003,33923,San Francisco,2024-12-27
+Mercedes-Benz,GLE,2014,25309,Miami,2024-12-17
+Nissan,Pathfinder,2006,101572,San Francisco,2024-12-15
+Hyundai,Sonata,2007,39081,San Francisco,2025-02-13
+Mercedes-Benz,E-Class,2009,135831,San Francisco,2024-12-11
+Ford,Fusion,2000,28645,San Francisco,2024-12-17
+Tesla,Model Y,2004,49551,Atlanta,2025-01-19
+Toyota,Tacoma,2022,80385,Phoenix,2024-12-07
+Honda,Pilot,2002,73950,San Francisco,2025-02-19
+Nissan,Altima,2016,66233,Chicago,2025-03-02
+Hyundai,Kona,2006,168082,Atlanta,2025-01-06
+Tesla,Model X,2006,109956,Seattle,2024-12-07
+Hyundai,Elantra,2022,36037,San Francisco,2025-02-25
+Chevrolet,Camaro,2018,130519,Phoenix,2024-12-12
+Chevrolet,Camaro,2018,159247,Atlanta,2025-01-21
+Mercedes-Benz,GLC,2013,117326,Atlanta,2025-02-16
+BMW,5 Series,2018,15901,Dallas,2025-01-31
+Honda,Civic,2010,67597,Phoenix,2024-12-07
+Hyundai,Elantra,2000,174911,New York,2025-02-20
+Mercedes-Benz,GLC,2017,111754,Phoenix,2025-03-04
+Hyundai,Kona,2002,38770,Atlanta,2025-02-13
+Toyota,Highlander,2004,118657,Phoenix,2025-02-12
+BMW,X3,2009,191444,San Francisco,2025-02-23
+Tesla,Model X,2005,73005,Chicago,2024-12-30
+Nissan,Sentra,2010,39514,Seattle,2025-01-12
+Jeep,Compass,2000,139315,Houston,2025-02-02
+Tesla,Model 3,2009,69231,Seattle,2024-12-20
+Chevrolet,Camaro,2016,46456,Seattle,2024-12-26
+Tesla,Model Y,2006,180154,San Francisco,2024-12-14
+Honda,CR-V,2010,188021,Phoenix,2025-01-25
+Jeep,Cherokee,2004,43959,Atlanta,2025-02-25
+Mercedes-Benz,C-Class,2015,153766,Miami,2025-01-25
+Nissan,Sentra,2011,60713,Los Angeles,2025-02-17
+Toyota,RAV4,2018,142694,Chicago,2025-02-07
+Nissan,Titan,2004,121860,Los Angeles,2024-12-20
+Nissan,Pathfinder,2010,14837,San Francisco,2024-12-24
+Ford,Mustang,2013,193541,New York,2024-12-18
+Toyota,Corolla,2018,11276,New York,2025-01-17
+Honda,Pilot,2015,71664,New York,2024-12-16
+Toyota,RAV4,2005,17787,New York,2025-02-04
+Honda,Pilot,2005,120743,Los Angeles,2024-12-26
+Toyota,Highlander,2012,101280,Chicago,2025-02-21
+Jeep,Wrangler,2022,109667,Phoenix,2024-12-27
+Jeep,Compass,2009,87094,Seattle,2024-12-17
+Hyundai,Sonata,2021,15600,New York,2025-01-07
+Honda,Civic,2016,40870,Dallas,2024-12-18
+Hyundai,Tucson,2009,108160,Seattle,2025-01-17
+Jeep,Renegade,2017,28276,Phoenix,2024-12-18
+Hyundai,Santa Fe,2010,138015,Phoenix,2025-01-21
+Tesla,Model Y,2011,177631,Houston,2025-02-10
+Toyota,Corolla,2012,101105,Atlanta,2024-12-21
+Toyota,Corolla,2015,81372,Atlanta,2025-01-06
+BMW,X5,2010,139998,Chicago,2025-01-24
+Toyota,Corolla,2009,124917,Houston,2025-02-27
+Honda,Accord,2021,143866,Miami,2024-12-11
+Ford,Explorer,2005,179803,Chicago,2025-02-19
+Chevrolet,Tahoe,2017,66429,Atlanta,2025-02-28
+Honda,Fit,2011,36603,Seattle,2024-12-15
+Jeep,Cherokee,2011,196474,Miami,2025-01-29
+Ford,Fusion,2005,74460,Dallas,2025-03-04
+Jeep,Cherokee,2000,68450,Atlanta,2025-02-22
+Tesla,Model S,2004,116376,New York,2024-12-23
+BMW,X5,2022,32778,Dallas,2025-02-02
+Tesla,Model Y,2002,69887,Los Angeles,2025-01-15
+Nissan,Altima,2012,169019,New York,2024-12-16
+BMW,5 Series,2003,30676,Dallas,2025-02-26
+Jeep,Cherokee,2001,30603,Phoenix,2024-12-26
+BMW,5 Series,2011,40186,San Francisco,2025-02-19
+Mercedes-Benz,GLC,2019,73986,Phoenix,2025-02-28
+Honda,Civic,2010,122642,Phoenix,2025-01-24
+Tesla,Model S,2022,94313,Chicago,2025-01-21
+Tesla,Model Y,2002,61389,Chicago,2025-01-04
+Nissan,Rogue,2018,187607,Phoenix,2024-12-17
+Mercedes-Benz,GLC,2017,95217,San Francisco,2025-02-17
+Toyota,Tacoma,2007,52676,Dallas,2025-01-23
+BMW,X3,2007,191702,Miami,2024-12-11
+Jeep,Grand Cherokee,2023,171058,Miami,2024-12-09
+Honda,Fit,2019,167890,Chicago,2024-12-30
+Hyundai,Elantra,2020,180115,Phoenix,2025-01-15
+Toyota,Tacoma,2003,47520,Chicago,2025-02-16
+Toyota,Corolla,2019,124193,Seattle,2025-01-07
+Jeep,Cherokee,2019,197585,Phoenix,2025-01-08
+Honda,Fit,2022,67337,San Francisco,2025-02-11
+Jeep,Compass,2012,49034,San Francisco,2025-02-03
+BMW,X3,2013,111707,Atlanta,2024-12-17
+Toyota,Highlander,2003,161059,Houston,2025-01-23
+Hyundai,Santa Fe,2016,19617,Atlanta,2025-01-16
+Jeep,Compass,2013,137048,San Francisco,2025-02-15
+Chevrolet,Tahoe,2000,16468,New York,2025-01-10
+BMW,X3,2004,140684,Miami,2024-12-28
+Jeep,Cherokee,2013,182979,Miami,2025-02-14
+Tesla,Model S,2008,66267,Atlanta,2025-02-22
+Jeep,Compass,2020,32718,Houston,2025-02-01
+Honda,Fit,2004,141055,Chicago,2025-02-07
+Honda,CR-V,2007,163340,Houston,2025-02-22
+Nissan,Titan,2001,110841,Phoenix,2025-02-03
+Mercedes-Benz,GLE,2005,77628,Miami,2025-02-26
+Hyundai,Kona,2015,59990,Atlanta,2025-01-24
+Tesla,Model S,2022,122975,Atlanta,2024-12-25
+BMW,5 Series,2014,130482,Houston,2025-01-08
+Hyundai,Elantra,2010,159157,New York,2025-01-09
+Nissan,Sentra,2006,45676,New York,2025-01-23
+Toyota,Corolla,2004,38368,Seattle,2025-01-06
+Chevrolet,Silverado,2012,58043,Los Angeles,2025-01-14
+Jeep,Cherokee,2011,39818,Phoenix,2025-03-04
+Tesla,Model X,2005,148435,Chicago,2024-12-29
+Mercedes-Benz,C-Class,2002,172689,Los Angeles,2025-01-20
+Ford,Fusion,2003,110687,New York,2025-02-04
+BMW,X3,2003,95216,Phoenix,2025-02-20
+Toyota,RAV4,2018,188653,New York,2025-02-28
+Mercedes-Benz,E-Class,2005,46386,Los Angeles,2024-12-09
+Mercedes-Benz,S-Class,2000,131831,Dallas,2024-12-18
+Honda,Civic,2003,138312,Dallas,2024-12-07
+BMW,5 Series,2004,83312,Chicago,2024-12-16
+Hyundai,Sonata,2007,179464,Houston,2025-02-19
+Hyundai,Elantra,2019,21106,Houston,2024-12-08
+Mercedes-Benz,GLC,2018,140096,Seattle,2025-02-22
+Chevrolet,Camaro,2014,142895,Dallas,2025-02-01
+Chevrolet,Camaro,2003,72139,Miami,2025-02-28
+Nissan,Altima,2000,13596,Dallas,2025-02-04
+Hyundai,Santa Fe,2005,199966,Houston,2025-01-11
+Chevrolet,Tahoe,2004,157387,Phoenix,2025-01-31
+Jeep,Renegade,2014,158255,Atlanta,2025-01-18
+Toyota,Highlander,2007,51005,New York,2025-01-24
+BMW,3 Series,2012,130524,Houston,2024-12-14
+Ford,Mustang,2003,95574,Houston,2025-01-06
+Toyota,Camry,2016,144652,New York,2025-02-05
+Jeep,Compass,2023,116947,Seattle,2024-12-16
+Ford,Escape,2022,184209,Seattle,2025-01-09
+Toyota,Camry,2008,72945,Miami,2025-02-06
+BMW,X5,2008,6641,Dallas,2025-02-04
+Tesla,Model X,2004,191557,Dallas,2025-03-01
+BMW,Z4,2003,195793,Atlanta,2025-01-30
+Honda,Accord,2010,194054,Dallas,2025-01-12
+Nissan,Sentra,2021,151561,New York,2025-02-12
+Hyundai,Elantra,2002,127448,Dallas,2025-02-05
+Mercedes-Benz,E-Class,2003,188147,Miami,2024-12-18
+Toyota,Corolla,2002,101934,Seattle,2025-02-06
+Mercedes-Benz,C-Class,2013,185416,Houston,2024-12-29
+Jeep,Wrangler,2023,97654,Dallas,2025-01-21
+Nissan,Rogue,2016,27682,Atlanta,2024-12-05
+Toyota,Camry,2013,113545,Los Angeles,2025-01-21
+Honda,Accord,2000,151715,Houston,2024-12-09
+Toyota,RAV4,2016,110799,Dallas,2024-12-23
+Nissan,Titan,2013,41349,San Francisco,2025-01-29
+Mercedes-Benz,C-Class,2008,52873,San Francisco,2024-12-05
+Jeep,Grand Cherokee,2001,20084,Dallas,2025-01-04
+Mercedes-Benz,GLC,2019,123833,Chicago,2025-01-29
+Hyundai,Sonata,2005,149455,Los Angeles,2025-02-20
+Jeep,Grand Cherokee,2017,44343,Houston,2025-02-20
+Tesla,Model S,2007,22993,Dallas,2025-01-03
+Hyundai,Santa Fe,2019,66434,Atlanta,2025-01-24
+Toyota,RAV4,2018,152856,Los Angeles,2025-02-28
+Ford,Mustang,2002,77114,San Francisco,2025-01-29
+Jeep,Wrangler,2018,106261,Houston,2024-12-08
+Toyota,RAV4,2017,192767,Seattle,2024-12-05
+Toyota,RAV4,2017,164893,Miami,2025-01-03
+Ford,Mustang,2019,91205,New York,2025-02-26
+Jeep,Compass,2022,116999,Dallas,2024-12-22
+Mercedes-Benz,GLC,2010,153504,Dallas,2025-01-04

@@ -1,0 +1,1 @@
+{"options":{"capped":true,"size":{"$numberInt":"5000"}},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"3181db31f053461e93f5944967192903","collectionName":"logs","type":"collection"}

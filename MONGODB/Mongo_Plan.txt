@@ -1,0 +1,108 @@
+MongoDB:
+
+  lESSON 1.Introduction to MongoDB – 5th December
+        Install MongoDB locally or use a cloud service like MongoDB Atlas.
+        Learn MongoDB architecture: databases, collections, documents.
+        Key concepts: BSON, JSON, CRUD operations.
+        Practice basic CRUD operations using MongoDB shell or GUI tools like Compass.
+		
+  LESSON 2.Querying and Aggregations – 5th December
+        Learn filtering, projection, and sorting.
+        Understand aggregation pipelines.
+        Practice queries with $match, $group, $project, etc.
+		
+  LESSON 3. Indexing and Performance – 6th December
+        Learn about indexes and their impact on performance.
+        Practice creating single-field, compound, and text indexes.
+        Explore tools for query performance analysis.
+		
+  LESSON 4. Backup and Security – 7th December
+        Understand MongoDB backup options.
+        Explore security best practices (authentication, authorization, encryption).
+		
+  LESSON 5.  Assignment – 9th December
+        Prepare an insert script for the data provided in the attached .csv file. This table will serve as the foundation for creating a sample car auction application prototype.
+
+ 
+$exists: check if there is field there or not
+$ne:check not equals
+
+show dbs
+
+use myDatabase
+
+show collections
+
+db.students.find()
+
+db.createCollection("students")
+
+db.students.insertOne({
+  name: "Alice",
+  age: 21,
+  course: "Information Technology"
+});
+
+db.students.insertMany([
+  { name: "Bob", age: 23, course: "Mathematics" },
+  { name: "Carol", age: 20, course: "Physics" }
+]);
+
+//to find: by some data ,which is greater than:
+ db.students.find({ age: { $gt: 21 } })
+
+/to select only particular value : 
+db.students.find({age:{$gte:21}},{name:1,_id:0})
+
+//to Update the collection: 
+db.Employee.updateOne({name:"Anvar"},{$set:{place:"Kottayam"}})
+db.students.updateMany(
+  {age:{$gt:22}},{$set:{status:"active"}}
+)
+
+
+//to find the data which or , and
+db.students.find({
+ $and:[
+  {age:{$gt:20}},
+  {$or :[
+    {name : "Bob"},
+    {name: "Alice"}
+	]}
+]
+})
+
+
+replaceOne() – Replace a Document
+db.collection.replaceOne(filter, newDocument)
+
+//drop collection 
+db.people.drop()
+
+"C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe" --install --dbpath "C:\Program Files\MongoDB\Server\8.0\data" --logpath "C:\Program Files\MongoDB\Server\8.0\log\mongod.log"
+
+to enable auth: 
+"C:\Program Files\MongoDB\Server\8.0\bin\mongod.exe" --auth --config "C:\Program Files\MongoDB\Server\8.0\bin\mongod.cfg"
+
+
+to kill : the mongodb instance : 
+Alternatively, you can use the command prompt:
+
+
+tasklist | findstr mongod
+If any mongod instance appears, stop it using:
+
+taskkill /F /IM mongod.exe
+
+for replica set : 
+mongod --replSet rs0 --dbpath "C:\Program Files\MongoDB\Server\8.0\data"
+mongod --auth --dbpath "C:\Program Files\MongoDB\Server\8.0\data"
+
+for together:  mongod --replSet rs0 --auth --dbpath "C:\Program Files\MongoDB\Server\8.0\data"
+
+for that have to create keyfile : openssl rand -base64 756 > "C:\Program Files\MongoDB\Server\8.0\data\keyfile"
+								  icacls "C:\Program Files\MongoDB\Server\8.0\data\keyfile" /inheritance:r /grant:r "MongoDB:(F)"
+								  mongod --replSet rs0 --auth --dbpath "C:\Program Files\MongoDB\Server\8.0\data" --keyFile "C:/Program Files/MongoDB/Server/8.0/data/keyfile"
+
+
+

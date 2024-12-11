@@ -1,0 +1,55 @@
+	Node-JS:
+	
+	Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code on the server side. 
+		It is built on the V8 JavaScript engine (the same engine that powers Google Chrome).
+		Instead of running JavaScript only in the browser, Node.js allows JavaScript to interact with server-side operations, such as file handling,
+		database operations, network requests, and more.
+		
+	Fetaures: 	
+	1.Event-Driven Architecture
+		Node.js uses an event-driven architecture, meaning the system reacts to events (like user input, file system changes, or network requests). 
+		This makes applications more efficient, as they can handle multiple tasks simultaneously without waiting for previous ones to complete.
+		Example: When a user makes a request to a web server, Node.js handles it as an event and processes the request accordingly.
+		
+	2. Non-blocking I/O (Input/Output)
+	One of the key features of Node.js is non-blocking I/O. 
+	This means that Node.js can handle multiple requests at the same time without waiting for each operation 
+	(e.g., file read, database query) to complete before moving to the next task.
+
+	Blocking I/O: The server waits for a task to complete before starting the next one.
+	Non-blocking I/O: The server continues processing other tasks while waiting for one operation (like reading a file) to finish.
+	
+	3. Lightweight and Fast
+	
+	4. Cross-platform
+	
+	1.Core Modules
+		fs: For file system operations (e.g., reading/writing files).
+		http: For creating web servers and handling HTTP requests.
+		os: For interacting with the operating system (e.g., retrieving system information).
+		path: For working with file and directory paths.
+	2. Importing and Exporting with require and module.exports
+		require() is used to import built-in or custom modules.
+		
+	Event loop
+		An event loop is something that pulls stuff out of the queue and places it onto the function execution stack whenever the function stack becomes empty.
+		The event loop is the secret by which JavaScript gives us an illusion of being multithreaded even though it is single-threaded.
+
+	Events Module
+	Node.js has a built-in module, called "Events", where you can create-, fire-, and listen for- your own events.
+	var events = require('events');
+	var eventEmitter = new events.EventEmitter();
+	
+		eg:     var events = require('events');
+				var eventEmitter = new events.EventEmitter();
+
+				//Create an event handler:
+				var myEventHandler = function () {
+				  console.log('I hear a scream!');
+				}
+
+				//Assign the event handler to an event:
+				eventEmitter.on('scream', myEventHandler);
+
+				//Fire the 'scream' event:
+				eventEmitter.emit('scream');

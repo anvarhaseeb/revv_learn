@@ -1,0 +1,165 @@
+	LESSON 1.Introduction to MongoDB – 5th December
+	
+        Install MongoDB locally or use a cloud service like MongoDB Atlas. ✅
+        Learn MongoDB architecture: databases, collections, documents.✅
+        Key concepts: BSON, JSON, CRUD operations.✅
+        Practice basic CRUD operations using MongoDB shell or GUI tools like Compass.✅
+		
+	Additional: tried out importing csv and json files to mongoDB compass	
+				$exists, $ne,
+				$nin //means notin
+	
+	# MongoDB is a NoSQL database that stores data in a flexible, JSON-like format called BSON (Binary JSON).
+	
+		RDBMS (MSSQL, Oracle)				MongoDB
+		----------------------------------------------------------------
+		Tables								Collections
+		Rows								Documents
+		Columns								Fields
+		SQL									MongoDB Query Language (MQL)
+		Schema								Schema-less (Flexible Schema)
+		Primary Key							_id Field
+		
+	# MongoDB architecture: databases, collections, documents.	
+	
+		1. Database
+			A database in MongoDB is a container that holds collections of documents.
+			It is similar to a schema in a relational database.
+			
+			use mydb  # Create or switch to a database named 'mydb'
+			
+		2. Collection {Tables}
+			A collection is a group of related documents, similar to a table in an RDBMS.
+			Collections are created dynamically when you insert a document, though you can also create them explicitly
+			
+			db.createCollection("students")  # Create a collection named 'students'
+			
+		3. Document{Rows}
+			A document is a single record stored in a collection, similar to a row in an RDBMS.
+			Documents are stored in BSON (Binary JSON) format, a binary-encoded version of JSON.
+			Each document is a key-value pair structure, making it highly flexible.
+			Unlike rows in relational databases, documents in the same collection can have different fields.
+			
+			eg: {
+				  "_id": ObjectId("67502f28c9423970be239d3f"),  // Unique identifier (automatically generated if not provided)
+				  "name": "Alice",
+				  "age": 21,
+				  "course": "Mathematics"
+				}
+
+			
+			_id: A unique identifier for the document, similar to a primary key in RDBMS. If you don’t specify it, MongoDB generates it automatically.
+			
+	# Key concepts: BSON, JSON, CRUD operations.
+		1.BSON
+			BSON stands for Binary JSON.
+			It is a binary-encoded serialization format used by MongoDB to store documents and make data transmission efficient.
+			BSON extends JSON by adding support for more data types, such as:
+				- ObjectId (MongoDB's unique identifier)
+				- Date (stored as a 64-bit integer)
+				- Binary data (e.g., images, files)
+				- Arrays and nested objects
+				
+		2.JSON
+			MongoDB uses JSON-like syntax for querying, but stores the data internally in BSON.
+			
+		3. CRUD Operations
+		
+			(i) Create (Insert Data)
+				Adds new documents to a collection.
+				Methods:
+					- insertOne(): Inserts a single document.
+					- insertMany(): Inserts multiple documents.
+					
+					// Insert a single document
+					db.students.insertOne({
+					  name: "Alice",
+					  age: 21,
+					  course: "Mathematics"
+					})
+
+					// Insert multiple documents
+					db.students.insertMany([
+					  { name: "Bob", age: 22, course: "Physics" },
+					  { name: "Charlie", age: 23, course: "Chemistry" }
+					])
+					
+			(ii) Read (Retrieve Data)
+				Retrieves documents from a collection.
+				Methods:
+					- find(): Retrieves documents based on a filter.
+					- findOne(): Retrieves a single document.
+					Example:
+
+					// Retrieve all documents
+					db.students.find()
+
+					// Retrieve documents with age > 21
+					db.students.find({ age: { $gt: 21 } })
+					
+			(iii) Update (Modify Data)
+				Updates existing documents in a collection.
+				Methods:
+					- updateOne(): Updates a single document.
+					- updateMany(): Updates multiple documents.
+					Example:
+
+					// Update a single document
+					db.students.updateOne(
+					  { name: "Alice" },  // Filter
+					  { $set: { age: 22 } }  // Update
+					)
+
+					// Update multiple documents
+					db.students.updateMany(
+					  { age: { $lt: 23 } },  // Filter
+					  { $set: { course: "Data Science" } }  // Update
+					)
+				
+			(iv) Delete (Remove Data)
+				Deletes documents from a collection.
+				Methods:
+				- deleteOne(): Deletes a single document.
+				- deleteMany(): Deletes multiple documents.
+				Example:
+
+				// Delete a single document
+				db.students.deleteOne({ name: "Bob" })
+
+				// Delete multiple documents
+				db.students.deleteMany({ age: { $lt: 23 } })
+				
+				
+	Practise: 
+	READ
+	
+	1.Retrieve all cars available in the auction.	
+		- db.cars.find({ auctionDate: { $ne: null } })
+	2.Find cars that are priced above $20000.
+		- db.cars.find({ price: { $gt: 20000 } })
+	3.Find cars that are available for auction on December 12, 2024, or later.
+		- db.cars.find({
+			  auctionDate: { $gte: ISODate("2024-12-12") }
+			})
+	4.Retrieve only the make, model, and price of all cars.
+		- db.cars.find({},{make:1,model:1,price:1, _id: 0})
+	5.Find all cars from the make "Honda" and model "Civic".
+		- db.cars.find({make:"Honda",model:"Civic"})
+	6.Find all cars that is not the make "Honda" and model "Civic".
+		- db.cars.find({
+			$and : [
+			{make:{$ne:"Honda"}},
+			{model:{$ne:"Civic"}}
+			]
+		})
+	
+	
+	UPDATE
+	1.Update the price of the Toyota Camry to $22000.
+		- db.cars.updateOne({model:"Camry"},{$set:{price:22000}})
+	2.Change the auction date of the Ford Focus to December 20, 2024.
+		- db.cars.updateOne({make:"Ford",model:"Focus"},{$set:{auctionDate:new Date("2024-12-20")}})
+		
+	DELETE
+	1.Delete the car with the make "Chevrolet" from the collection.
+		- db.cars.deleteOne({make:"Chevrolet"})

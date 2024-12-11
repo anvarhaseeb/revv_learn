@@ -1,0 +1,48 @@
+Node.js:
+
+day 1: Understanding Modules – 11th Dec
+
+o    Core modules (fs, http, os, etc.).
+
+o    Import/export with require and module.exports.
+
+o    Create and use custom modules.
+
+day1: Event Loop and Events – 11th Dec
+        What is the event loop, and how does it work?
+        Using the events module.
+        Create an event emitter and listeners.
+    
+day 2: File System Module – 12th Dec
+
+o    Working with files using the fs module.
+
+o    Reading, writing, appending, and deleting files.
+
+o    Asynchronous vs. synchronous file operations.
+
+day3: HTTP Module – 13th Dec
+
+o    Create a simple HTTP server.
+
+o    Understand request and response objects.
+
+o    Serve static files using the HTTP module.
+
+day:4  Hands-on Practice – 16th Dec
+
+o    Build a basic static web server.
+
+o    Read input from files and serve them dynamically.
+
+How we import and send the response from expresss.js:
+				const express = require('express');
+				const app = express();
+
+				app.get("/",(req,res)=>{
+					res.send("This is Home page");                              
+				})
+
+				app.listen(8000,()=>{
+					console.log("Server is running on http://localhost:8000");          
+				})

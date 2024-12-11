@@ -1,0 +1,154 @@
+	LESSON - 2: Querying and Aggregations – 5th December
+	
+        Learn filtering, projection, and sorting. ✅
+        Understand aggregation pipelines ✅.
+        Practice queries with $match, $group, $project, etc ✅. 
+	
+	# Querying
+		Querying is the process of retrieving specific data from a MongoDB database based on certain conditions
+		It’s similar to the SELECT statement in SQL.
+		
+		db.collectionName.find(
+			  <filter>,       // Filter to select documents
+			  <projection>    // Fields to include or exclude in the result
+			)
+		
+		Components of Querying:
+			- Filter: Specifies the conditions that documents must meet to be retrieved.
+			- Projection: Determines which fields should be included or excluded from the result.
+			- Sorting: Orders the results in ascending or descending order.
+				db.cars.find().sort({ price: -1 })  // Descending order by price
+			
+	# Aggregation
+		Aggregation is the process of selecting data from a collection to process multiple documents 
+		and returns computed result
+		- $match
+			The $match stage filters documents based on the given condition. It is similar to the WHERE clause in SQL.
+			db.orders.aggregate([
+								  { 
+									$match: { amount: { $gt: 1000 } }
+								  }
+								])
+			
+		- Limit & Skip: Limits the number of documents returned and skips a specified number of documents.
+				db.cars.find().limit(10)
+				db.cars.find().skip(10) // skip first 10 page
+				eg:
+					Page 1 (first 10 records):
+					db.cars.find().limit(10)
+					
+					Page 2 (records 11-20):
+					db.cars.find().skip(10).limit(10)
+					
+					Page 3 (records 21-30):
+					db.cars.find().skip(20).limit(10)
+					
+			 	in aggregate :
+					db.orders.aggregate([
+									  {$skip: 5 },          // Skip the first 5 documents.
+									  {$limit: 5 }          // Limit the result to the next 5 documents.
+									])		
+					
+		- $lookup 
+			It is used to perform joins between collections, similar to a JOIN operation in relational databases like SQL.
+			db.orders.aggregate([{$lookup:{
+										from:"customers",
+										localField:"customerId",
+										foreignField : "_id",
+										as:"CustomerDetails"}
+									}
+								])
+																output:[	{
+																		  _id: 1,
+																		  product: 'Laptop',
+																		  customerId: 101,
+																		  CustomerDetails: [
+																			{
+																			  _id: 101,
+																			  name: 'Alice',
+																			  city: 'New York'
+																			}
+																		  ]
+																		},
+																		{
+																		  _id: 2,
+																		  product: 'Phone',
+																		  customerId: 102,
+																		  CustomerDetails: [
+																			{
+																			  _id: 102,
+																			  name: 'Bob',
+																			  city: 'San Francisco'
+																			}
+																		  ]
+																		}]
+			- $unwind
+				To flatten the CustomerDetails array and return to seperate documents
+				db.orders.aggregate([{$lookup:{
+										from:"customers",
+										localField:"customerId",
+										foreignField : "_id",
+										as:"CustomerDetails"}
+									},{ $unwind: "$CustomerDetails" }
+								])
+			- $match , group
+				db.cars.aggregate([
+									 { 
+										$match: { 
+										  price: { $gt: 20000 } 
+										}
+									  },
+									  
+									  { $group: {
+									 _id: "null", 
+									 total: { $sum: "$price" },
+									 avg:{$avg :"$price"}
+									 } },
+									  { 
+										$project: {
+										  _id: 0,  // Hide the _id field
+										  totalPrice: "$total",  // Rename 'total' to 'totalPrice'
+										  averagePrice: "$avg"   // Rename 'avg' to 'averagePrice'
+										}
+									  }
+									])
+						OUTPUT: {
+								  totalPrice: 47000,
+								  averagePrice: 23500
+								}
+		----------------------Basic Aggregation Tasks-----------------------------------------------------------						
+		    1.Use $match to filter documents where the price is greater than 20,000.
+							[{
+								$match: { price:{$gt:20000}
+							}
+							}]
+			2.Use $group to calculate the total and average price of cars grouped by make.
+							[
+									{
+									  $group: {
+										_id: "$make",
+										total: {$sum: "$price"},
+									   avg: {$avg :"$price"}
+									  }
+									}
+								]
+
+			3.Use $project to display only the make, model, and a computed field priceWithTax (e.g., price * 1.1 for a 10% tax).
+											 {
+												$project: {
+												  make: 1,                // Include the `make` field
+												  model: 1,               // Include the `model` field
+												  priceWithTax: {         // Compute `priceWithTax` as price * 1.1
+													$multiply: ["$price", 1.1]
+												  }
+												}
+											  }
+		----------------------Intermediate Aggregation Tasks----------------------------------------------------------------------------------------
+			1.Combine $match and $group to filter cars priced over 10,000 and calculate the total count and total price for those cars.
+			
+			2.Use $sort to order the cars by price in descending order, then limit the result to 5 documents using $limit.
+			
+			3.Combine $group and $bucket to create price ranges (boundaries) such as [0, 10000, 20000, 30000] and count the number of cars in each bucket.
+			
+			4.Use $unwind to break down an array field (if your document has any) into separate documents and group them by a relevant attribute.
+			

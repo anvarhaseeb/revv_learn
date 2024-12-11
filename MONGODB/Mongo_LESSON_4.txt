@@ -1,0 +1,77 @@
+  LESSON 4. Backup and Security – 7th December
+        Understand MongoDB backup options.
+        Explore security best practices (authentication, authorization, encryption).
+		
+		Additionally : Capped Collection
+			db.createCollection("logs", { capped: true, size: 5000 })
+			No manual deletion
+			db.createCollection("limitedLogs", { capped: true, size: 5000, max: 5 })//max 5 record
+			db.limitedLogs.find().sort({ $natural: 1 })
+
+	
+		Backup: To restore the data from the backup and the backed up regular intervals.
+		
+		mongodump and mongorestore
+
+				Use these command-line tools to back up and restore databases.
+				Creates a BSON dump of your data.
+		1.mongodump --db sampleAuctionDB "C:\Users\anvar\Desktop\Mongo_DB\MONGODB\sampleAuctionDB"
+		2.db.orders.drop()
+		3.db.orders.find().pretty() // no result will be there 
+		4.do mongo restore particular collection 
+		5.mongorestore --db sampleAuctionDB --collection orders "C:\Users\anvar\Desktop\Mongo_DB\MONGODB\sampleAuctionDB\orders.bson"
+		
+		6.db.orders.find().pretty() //then,we will get the value
+		test> use sampleAuctionDB
+			switched to db sampleAuctionDB
+			sampleAuctionDB> db.orders.find().pretty()
+			[
+			  { _id: 1, product: 'Laptop', customerId: 101 },
+			  { _id: 2, product: 'Phone', customerId: 102 },
+			  { _id: 3, product: 'USB', customerId: 103 }
+			]
+			
+	Authentication : 
+	To Enable Authentication
+		Authentication is disabled by default in MongoDB. To enable it, modify the MongoDB configuration file:
+		•	Edit the MongoDB configuration file (mongod.conf) and add:
+		security:
+		  authorization: enabled
+		•	Restart MongoDB Restart the MongoDB service after enabling authentication.
+		net stop MongoDB
+		net start MongoDB
+
+		•	Create MongoDB Users
+		use admin	
+		db.createUser({ user: "admin", pwd: "admin", roles: [ { role: "root", db: "admin" } ] })
+
+		•	Log in as Admin User
+
+			mongosh -u "admin" -p "admin" --authenticationDatabase "admin"  //modern-way
+			or 
+			db.auth("admin","admin")
+        --------------------------------------------------------------------------------------------------
+	For particular user form specific DB in test :
+	
+		db.createUser({ user: "user1", pwd: "user1", roles: [ { role: "read", db: "auctionDB"} ,{role:"readWrite",db:"sampleAuctionDB"}] })
+		test> db.getUsers()
+			{
+			  users: [
+				{
+				  _id: 'test.user1',
+				  userId: UUID('f40d704d-28fa-4a67-b6ae-708d0854ae8b'),
+				  user: 'user1',
+				  db: 'test',
+				  roles: [
+					{ role: 'read', db: 'auctionDB' },
+					{ role: 'readWrite', db: 'sampleAuctionDB' }
+				  ],
+				  mechanisms: [ 'SCRAM-SHA-1', 'SCRAM-SHA-256' ]
+				}
+			  ],
+			  ok: 1
+			}
+			if we try to update db that they dont have privilage , as : sampleAuctionDB this  msg will occur 
+			auctionDB> db.cars.updateOne({$and:[{Model:"Accord"},{Mileage:33440}]},{$set:{Model:"City"}})
+				MongoServerError[Unauthorized]: not authorized on auctionDB to execute command { update: "cars", updates: [ { q: { $and: [ { Model: "Accord" }, { Mileage: 33440 } ] }, u: { $set: { Model: "City" } } } ], ordered: true, lsid: { id: UUID("e1158327-5c29-47a8-af7a-aba7045d02aa") }, $db: "auctionDB" }
+				auctionDB>
